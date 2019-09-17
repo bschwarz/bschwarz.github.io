@@ -1,8 +1,36 @@
 ---
 layout: default
 ---
+<!-- <div class="posts"></div>
+<a href="#" class="nav-link dropdown-toggle profile-image" data-toggle="dropdown">
+  <img src="images/passport-me-bw.png"  class="rounded-circle"  alt="Profile Picture">
+</a>
+</div> -->
+<div class="toggle" id="toggle" onclick="menu-expand()">
+  <img src="images/passport-me-bw.png"  class="rounded-circle"  alt="Profile Picture">
+</div>
+  <div class="menu" id="menu">
+    <a href="#">
+      <i class="fas fa-microphone"></i>
+    </a>
+     <a href="#">
+      <i class="fas fa-user"></i>
+    </a>
+    <a href="#">
+      <i class="fas fa-video-camera"></i>
+    </a>
+    <a href="#">
+      <i class="fas fa-envelope"></i>
+    </a>
+    <a href="#">
+      <i class="fas fa-camera"></i>
+    </a>
+    <a href="#">
+      <i class="fas fa-bell"></i>
+    </a>
+  </div>
 
-<div class="posts">
+<!-- <div class="posts">
   {% for post in site.posts %}
     <article class="post">
 
@@ -15,4 +43,19 @@ layout: default
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
   {% endfor %}
-</div>
+</div> -->
+
+<script >
+var i=0;
+function expand(){
+  if(i==0){
+document.getElementById("menu").style.transform="scale(3)"; 
+   document.getElementById("plus").style.transform="rotate(45deg)"; 
+    i=1;
+  }
+  else{   document.getElementById("menu").style.transform="scale(0)"; 
+   document.getElementById("plus").style.transform="rotate(0deg)"; 
+    i=0;
+  }
+}
+</script>
