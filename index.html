@@ -7,27 +7,27 @@ layout: default
 </a>
 </div> -->
 <div class="toggle" id="toggle" onclick="menu-expand()">
-  <img src="images/passport-me-bw.png"  class="rounded-circle"  alt="Profile Picture">
+  <img src="images/passport-me-bw.png"  class="rounded-circle plus"  alt="Profile Picture">
 </div>
   <div class="menu" id="menu">
     <a href="#">
-      <i class="fas fa-microphone"></i>
+      <i class="fas fa-file"></i>
     </a>
      <a href="#">
       <i class="fas fa-user"></i>
     </a>
     <a href="#">
-      <i class="fas fa-video-camera"></i>
+      <i class="fas fa-blog"></i>
     </a>
     <a href="#">
-      <i class="fas fa-envelope"></i>
+      <i class="fas fa-project-diagram"></i>
     </a>
-    <a href="#">
+    <!-- <a href="#">
       <i class="fas fa-camera"></i>
     </a>
     <a href="#">
       <i class="fas fa-bell"></i>
-    </a>
+    </a> -->
   </div>
 
 <!-- <div class="posts">
@@ -46,16 +46,16 @@ layout: default
 </div> -->
 
 <script >
-var i=0;
-function expand(){
-  if(i==0){
-document.getElementById("menu").style.transform="scale(3)"; 
-   document.getElementById("plus").style.transform="rotate(45deg)"; 
-    i=1;
+  var i=0;
+  function expand(){
+    if(i==0){
+      document.getElementById("menu").style.transform="scale(4)"; 
+      // document.getElementById("plus").style.transform="rotate(45deg)"; 
+      i=1;
+    } else {
+      document.getElementById("menu").style.transform="scale(0)"; 
+      // document.getElementById("plus").style.transform="rotate(0deg)"; 
+      i=0;
+    }
   }
-  else{   document.getElementById("menu").style.transform="scale(0)"; 
-   document.getElementById("plus").style.transform="rotate(0deg)"; 
-    i=0;
-  }
-}
 </script>
