@@ -8,10 +8,10 @@
     <meta name="author" content="Brett Schwarz">
     <title>{{ site.title }}</title>
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <link rel="stylesheet" href="assets/css/all-5.9.0.min.css"> <!-- font awesome -->
-    <script src="assets/js/jquery-3.4.1.min.js"></script>
-    <script src="assets/js/jquery-ui.min.js"></script>
-    <script src="assets/js/site.js"></script>
+    <link rel="stylesheet" href="{{ base.url | prepend: site.url }}/assets/css/all-5.9.0.min.css"> <!-- font awesome -->
+    <script src="{{ base.url | prepend: site.url }}/assets/js/jquery-3.4.1.min.js"></script>
+    <script src="{{ base.url | prepend: site.url }}/assets/js/jquery-ui.min.js"></script>
+    <script src="{{ base.url | prepend: site.url }}/assets/js/site.js"></script>
 
 {% seo %}
   </head>
@@ -20,10 +20,10 @@
     
   <!-- <nav class="top-right nav-menu"> -->
     <div class="toggle" id="toggle" onclick="menu-expand()">
-        <img src="images/passport-me-bw.png"  id="profile-pic" class="rounded-circle plus"  alt="Profile Picture">
+        <img src="{{ base.url | prepend: site.url }}/images/passport-me-bw.png"  id="profile-pic" class="rounded-circle plus"  alt="Profile Picture">
     </div>
     <div class="menu" id="menu">
-      <a href="/resume.html">
+      <a href="/resume/">
         <i class="fas fa-file"></i>
       </a>
         <a href="/">
