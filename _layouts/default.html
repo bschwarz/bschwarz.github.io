@@ -4,20 +4,49 @@
     <meta charset='utf-8'>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="Personal Web Site for Brett Schwarz">
+    <meta name="author" content="Brett Schwarz">
+    <title>{{ site.title }}</title>
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
     <link rel="stylesheet" href="assets/css/all-5.9.0.min.css"> <!-- font awesome -->
+    <script src="assets/js/jquery-3.4.1.min.js"></script>
+    <script src="assets/js/jquery-ui.min.js"></script>
+    <script src="assets/js/site.js"></script>
 
 {% seo %}
   </head>
 
   <body>
+    
+  <!-- <nav class="top-right nav-menu"> -->
+    <div class="toggle" id="toggle" onclick="menu-expand()">
+        <img src="images/passport-me-bw.png"  id="profile-pic" class="rounded-circle plus"  alt="Profile Picture">
+    </div>
+    <div class="menu" id="menu">
+      <a href="/resume.html">
+        <i class="fas fa-file"></i>
+      </a>
+        <a href="/">
+        <i class="fas fa-home"></i>
+      </a>
+      <a href="#">
+        <i class="fas fa-blog"></i>
+      </a>
+      <a href="#">
+        <i class="fas fa-project-diagram"></i>
+      </a>
+    </div>
+    <!-- </nav> -->
+  <header>
+    <h1 class='title'> {{ page.title }} </h1>
+  </header>
 
 
-    <div class="container">
+    <main class="container">
       <section id="main_content">
         {{ content }}
       </section>
-    </div>
+    </main>
 
     {% if site.google_analytics %}
       <script>

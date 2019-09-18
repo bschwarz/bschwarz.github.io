@@ -45,14 +45,25 @@ li {
 */
 
 header {
-  background: rgba(0, 0, 0, 0.1);
+  text-align: center;
+  display: inline-block;
+  position: relative;
+  top: 0;
+  left: 0;
+  // background: rgba(0, 0, 0, 0.1);
+  // background-color: $body-background url("../images/bkg.png") 0 0;
+  // background-color: red;
   width: 100%;
-  border-bottom: 1px dashed $conifer; //header;
-  padding: 20px 0;
-  margin: 0 0 40px 0;
+  min-width: 100%;
+  // height: 200px;
+  // border-bottom: 1px dashed $conifer; //header;
+  // padding: 20px 0;
+  margin: 0 0 70px 0;
+  padding: 0 0 150px 0;
 }
 
 header h1 {
+  text-align: center;
   font-size: 30px;
   line-height: 1.5;
   margin: 0 0 0 -40px;
@@ -138,8 +149,17 @@ dt {
   font-weight: bold;
 }
 
-ul li {
-  list-style-image:url('../images/bullet.png');
+ul {
+  list-style-type:none;
+}
+
+ul li:before {
+  margin-left: -30px;
+  margin-right: 10px;
+  color: $conifer;
+  font-weight: bold;
+  content: "..> ";
+  // list-style-image:url('../images/bullet.png');
 }
 
 blockquote {
@@ -149,7 +169,7 @@ blockquote {
 }
 
 pre {
-  background: rgba(0, 0, 0, 0.9);
+  background: rgba(26, 20, 20, 0.9);
   border: 1px solid rgba(255, 255, 255, 0.15);
   padding: 10px;
   font-size: 16px;
