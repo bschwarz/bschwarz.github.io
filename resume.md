@@ -4,27 +4,34 @@ title: resume
 ---
 
 
-## Brett
+# Brett
 
-linkedin: [https://www.linkedin.com/in/brettschwarz](https://www.linkedin.com/in/brettschwarz)
-Address: 98006, US
+<i class="fab fa-linkedin-in green" aria-hidden="true"></i>
+www.linkedin.com/in/brettschwarz
+
+
+<i class="fas fa-map-marker-alt green" aria-hidden="true"></i>
+Bellevue, WA 98006, US
+
+<i class="fas fa-envelope green" aria-hidden="true"></i>
+brett.schwarz@gmail.com
+
 
 ## Overview
 
 I like solving problems, big and small. More importantly, I like finding the most elegant, creative and effective solution to a problem (perhaps this is why Design Thinking resonates with me). I've been like this for as long as I can remember, even as a kid working with my dad's tools. Nowadays I use my math, engineering and software background as tools to solve problems. I have used these tools in different roles, from sales engineering, system engineering, operations, software and architect roles. There's nothing quite like the satisfaction you get when your team solves a complex problem elegantly. This is what I like, and this is what I believe I do well.
 
 Here's an overview of my experience:
-• Well-rounded and can effectively adapt to different environments, concepts, and technologies.
-• Variety of roles in software engineering/design, system/solution engineering, sales engineering, consulting, 
-  testing, and technical project management.
-• Clear, in-depth understanding of mobile and IT network architectures.
-• Experience with product, service, and software life cycle.
-• Team and project leadership, with the ability to navigate complex projects.
-• Excellent interpersonal skills within teams and with customers. I like working with people.
+* Well-rounded and can effectively adapt to different environments, concepts, and technologies.
+* Variety of roles in software engineering/design, system/solution engineering, sales engineering, consulting, testing, and technical project management.
+* Clear, in-depth understanding of mobile and IT network architectures.
+* Experience with product, service, and software life cycle.
+* Team and project leadership, with the ability to navigate complex projects.
+* Excellent interpersonal skills within teams and with customers. I like working with people.
 
 ## Skills
 
-**Integration, 5**
+### Integration *****
 
 Mobile Networks, IT Networks
 
@@ -185,7 +192,7 @@ Study type: Nanodegree
 
 Use one system to manage voice over IP and conventional phone lines, manage voice mail and run CGI-like applications for phone users.
 
-### Hacking Red Hat Kickstart
+### Hacking Red Hat Kickstart(http://www.linuxjournal.com/article/6473)
 
 **[Linux Journal](http://www.linuxjournal.com/article/6473)** (March 2003)
 
