@@ -29,16 +29,22 @@
         <a href="/">
         <i class="fas fa-home"></i>
       </a>
-      <a href="#">
+      <a href="/blog/">
         <i class="fas fa-blog"></i>
       </a>
-      <a href="#">
+      <a href="/projects/">
         <i class="fas fa-project-diagram"></i>
       </a>
     </div>
     <!-- </nav> -->
   <header>
     <h1 class='title'> {{ page.title }} </h1>
+    <section id="downloads">
+      {% if page.title == 'resume' %}
+        <a href="{{ base.url | prepend: site.url }}/assets/files/brett-schwarz-resume.pdf" class="btn">PDF Version</a>
+        <a href="{{ base.url | prepend: site.url }}/assets/files/brett-schwarz-resume.json" class="btn">JSON Resume Version</a>
+      {% endif %}
+    </section>
   </header>
 
 

@@ -50,6 +50,7 @@ header {
   position: relative;
   top: 0;
   left: 0;
+  min-height: 200px;
   // background: rgba(0, 0, 0, 0.1);
   // background-color: $body-background url("../images/bkg.png") 0 0;
   // background-color: red;
@@ -58,8 +59,8 @@ header {
   // height: 200px;
   // border-bottom: 1px dashed $conifer; //header;
   // padding: 20px 0;
-  margin: 0 0 70px 0;
-  padding: 0 0 100px 0;
+  margin: 0 0 20px 0;
+  padding: 0 0 50px 0;
 }
 
 header h1 {
@@ -87,10 +88,15 @@ header h2 {
   font-weight: 300;
   color: #666;
 }
+#downloads {
+  margin-top: 0;
+  margin-right: 100px;
+  float: right;
+}
 
 #downloads .btn {
   display: inline-block;
-  text-align: center;
+  text-align: right;
   margin: 0;
 }
 

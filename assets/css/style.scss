@@ -16,7 +16,10 @@ html {
   // width: 100%;
 }
 
-.green {
+// make font awesome icons
+.igreen {
+  font-size: 20px;
+  padding-right: 5px;
   color: $conifer;
 }
 .rounded-circle {
@@ -49,7 +52,7 @@ body {
 .container {
   position: relative;
   // top: 200px;
-  width: 90%;
+  width: 80%;
 }
 nav {
   // display: block;
@@ -139,7 +142,7 @@ nav.top-rightX {
   transition: 0.7s;
 }
 
-a {
+.menu a {
   display: inline-block;
   position: absolute;
   font-size: 12px;
@@ -154,7 +157,7 @@ a {
 // icon size = 12/2 = 6
 // top = 50 + 5 - (sin(15) * 80) - 6
 // left = 5 + (cos(15) * 80)
-a:nth-child(1){
+.menu a:nth-child(1){
   top: 28px;
   left: 82px;
 }
@@ -166,21 +169,28 @@ a:nth-child(1){
 // icon size = 12/2 = 6
 // top = 50 + 5 + (sin(15) * 80) - 6
 // left = 5 + (cos(15) * 80) - 6
-a:nth-child(2){
+.menu a:nth-child(2){
   top: 58px;
   left: 80px;
 }
 
-a:nth-child(3){
+.menu a:nth-child(3){
   top: 78px;
   left: 60px;
 }
 
-a:nth-child(4){
+.menu a:nth-child(4){
   top: 79px;
   left: 28px;
 }
 
-a:hover {
+.menu a:hover {
   color: $conifer;
+}
+
+.langlevel {
+  color: $conifer;
+}
+.langlevel {
+  font-weight: bold;
 }

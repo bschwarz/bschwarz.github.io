@@ -1,13 +1,14 @@
 ---
 layout: default
 title: resume
-published: true
-categories: [resume, experience]
-tags: [resume, work, skills]
-author: Brett Schwarz
 ---
+<ul>
+{% for job in site.data.resume.work %}
+<li>{{ job.company }}</li>
+{% endfor %}
+</ul>
 
-# {{ site.data.resume.basics.name }}
+<!-- # {{ site.data.resume.basics.name }} -->
 
 <i class="fab fa-linkedin-in igreen" aria-hidden="true"></i>
  [www.linkedin.com/in/brettschwarz](https://www.linkedin.com/in/brettschwarz)
@@ -33,7 +34,28 @@ Here's an overview of my experience:
 * Excellent interpersonal skills within teams and with customers. I like working with people.
 
 ***
+## Skills
 
+### Integration
+`Mobile Networks` `IT Networks`
+### Wireless
+`2G` `3G` `4G` `LTE` `GSM` `CDMA` `UMTS` `SMSC` `HLR` `HSS`
+### Testing
+`performance` `functional` `unit` `UAT`
+### Software Development
+`C` `Tcl/Tk` `JavaScript` `Node.js` `python` `Java` `shell` `Git` `GitHub` `CVS` `SVN` `Bitbucket` `Agile`
+### Web Services
+`REST` `OpenAPI Specification (OAS)` `JSON Schema` `HTTP/1.1` `HTTP/2` `SOAP` `WSDL` `GraphQL`
+### Solution Architecture
+`Mobile Networks` `IT Networks`
+### Computers
+`Linux/Unix` `Windows` `Mac` `TCP/IP`
+### Web Development
+`HTML5` `CSS` `JavaScript` `jQuery` `Node.js` `Gulp` `Grunt` `Babel` `Knockout.js` `AngularJS` `Bootstrap` `Foundation` `Apache` `Naviserver` `Tomcat`
+### Databases
+`PostgreSQL` `SQLite` `MySQL` `Oracle` `MongoDB`
+
+***
 ## Experience
 
 ### Principal System Engineer
@@ -134,46 +156,23 @@ Here's an overview of my experience:
 * Enhanced subscriber accessibility by developing procedure and software tools to migrate/modify subscribers efficiently and in a significantly reduced time frame.
 
 ***
-
-## Skills
-
-### Integration
-`Mobile Networks` `IT Networks`
-### Wireless
-`2G` `3G` `4G` `LTE` `GSM` `CDMA` `UMTS` `SMSC` `HLR` `HSS`
-### Testing
-`performance` `functional` `unit` `UAT`
-### Software Development
-`C` `Tcl/Tk` `JavaScript` `Node.js` `python` `Java` `shell` `Git` `GitHub` `CVS` `SVN` `Bitbucket` `Agile`
-### Web Services
-`REST` `OpenAPI Specification (OAS)` `JSON Schema` `HTTP/1.1` `HTTP/2` `SOAP` `WSDL` `GraphQL`
-### Solution Architecture
-`Mobile Networks` `IT Networks`
-### Computers
-`Linux/Unix` `Windows` `Mac` `TCP/IP`
-### Web Development
-`HTML5` `CSS` `JavaScript` `jQuery` `Node.js` `Gulp` `Grunt` `Babel` `Knockout.js` `AngularJS` `Bootstrap` `Foundation` `Apache` `Naviserver` `Tomcat`
-### Databases
-`PostgreSQL` `SQLite` `MySQL` `Oracle` `MongoDB`
-
-***
 ## Education
 
 ### Dual major in Electrical Engineering and Mathematics
 
-**University of Toledo** 
+**University of Toledo** (August 1988 - November 1991)
 
 Study type: BS
 
 ### Frontend Web Developer
 
-**Udacity** 
+**Udacity** (December 2016 - December 2017)
 
 Study type: Nanodegree
 
 ### Sustainability Studies
 
-**SBA** 
+**SBA** (December 2009)
 
 ***
 ## Publications
@@ -184,7 +183,7 @@ Study type: Nanodegree
 
 Use one system to manage voice over IP and conventional phone lines, manage voice mail and run CGI-like applications for phone users.
 
-### Hacking Red Hat Kickstart
+### Hacking Red Hat Kickstart(http://www.linuxjournal.com/article/6473)
 
 **[Linux Journal](http://www.linuxjournal.com/article/6473)** (March 2003)
 
@@ -193,32 +192,11 @@ How to create a single CD for fast and easy customized installation.
 ***
 ## Languages
 
-<table>
-    <tr>
-        <td><strong>English:</strong></td>
-        <td><span class="langlevel">||||||||||</span><span></span></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td><strong>Spanish:</strong></td>
-        <td><span class="langlevel">||||||</span><span>||||</span></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td><strong>German:</strong></td>
-        <td><span class="langlevel">||||</span><span>||||||</span></td>
-        <td></td>
-        <td></td>
-    </tr>
-    <tr>
-        <td><strong>Mandarin:</strong></td>
-        <td><span class="langlevel">||</span><span>||||||||</span></td>
-        <td></td>
-        <td></td>
-    </tr>
-</table>
+**German**: Limited working
+
+**Mandarin**: Elementary
+
+**Spanish**: Limited working
 
 ***
 ## References
