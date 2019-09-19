@@ -1,4 +1,6 @@
-  function expand() {
+$(document).ready(function(){
+  
+  $('#toggle').on('click', function expand() {
     if(! $('#menu').hasClass('menu-active')){
       $('#menu').css("transform","scale(2)"); 
       $('#menu').addClass('menu-active');
@@ -8,4 +10,14 @@
       $('#menu').removeClass('menu-active');
       i=0;
     }
+  });
+
+  function clickMenu() {
+    $('#toggle').trigger('click')
   }
+console.log('READY');
+  // $('#menu').trigger('hover');
+  // $('#toggle').trigger('click');
+  clickMenu();
+  setTimeout(clickMenu, 2000);
+});
