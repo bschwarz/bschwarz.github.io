@@ -49,6 +49,11 @@ body {
   // overflow: hidden;
 }
 
+p, li {
+  text-align: justify;
+  text-justify: auto;
+}
+
 .container {
   position: relative;
   // top: 200px;
