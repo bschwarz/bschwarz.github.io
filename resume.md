@@ -10,7 +10,7 @@ author: Brett Schwarz
 # {{ site.data.resume.basics.name }}
 
 <i class="fab fa-linkedin-in igreen" aria-hidden="true"></i>
- [www.linkedin.com/in/brettschwarz](https://www.linkedin.com/in/brettschwarz)
+ [brettschwarz](https://www.linkedin.com/in/brettschwarz)
 
 
 <i class="fas fa-map-marker-alt igreen" aria-hidden="true"></i>
