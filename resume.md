@@ -20,6 +20,7 @@ author: Brett Schwarz
 [brett.schwarz@gmail.com](mailto:brett.schwarz@gmail.com)
 
 ***
+
 ## Overview
 
 I like solving problems, big and small. More importantly, I like finding the most elegant, creative and effective solution to a problem (perhaps this is why Design Thinking resonates with me). I've been like this for as long as I can remember, even as a kid working with my dad's tools. Nowadays I use my math, engineering and software background as tools to solve problems. I have used these tools in different roles, from sales engineering, system engineering, operations, software and architect roles. There's nothing quite like the satisfaction you get when your team solves a complex problem elegantly. This is what I like, and this is what I believe I do well.
@@ -85,18 +86,17 @@ Here's an overview of my experience:
 
 **Alcatel-Lucent** (July 2008 - August 2009)
 
-* Supported sales team with technical expertise for product presentations and collaborated with internal teams on customer solutions.  
-* Assisted the sales team to secure a major strategic win, by educating customers on product details and mapping them to customer objectives.
+* Supported sales team with technical expertise for product presentations and consultations to the customer up to the VP level.
+* Achieved highest-ranked sales engineer status by assisting the sales team to secure a major strategic win.
 
 ### Senior Network Systems Engineer
 
 **Alcatel-Lucent** (October 2005 - July 2008)
 
-* Headed the performance optimization team from an engineering and project management role. 
-* Reduced turnaround time and increased effectiveness of statistics reporting by developing an internal web-based reporting tool. 
-* Accelerated customer’s understanding of the products by providing presentations and weekly performance updates. 
-* Improved resolution time of performance issues by assisting the customer and internal teams in analyzing statistics.
-* Improved internal understanding of the product’s performance by collaborating with development and system engineering.
+* Headed the performance optimization team from an engineering and project management role.
+* Accelerated customer’s understanding of the products by providing presentations and weekly performance updates to customer up to the VP level.
+* Reduced turnaround time and increased effectiveness of statistics reporting by developing an internal web-based reporting tool.
+* Collaborated with development and system engineering on performance issues to improve the product’s performance.
 
 ### Implementation Engineer
 
