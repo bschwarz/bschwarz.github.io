@@ -12,6 +12,7 @@
 * {
   box-sizing:border-box;
 }
+
 html {
   // width: 100%;
 }
@@ -39,6 +40,16 @@ html {
   // border:5px solid $conifer ;
   border-color: $conifer;
   // border-style: groove;
+}
+
+.menu-label {
+  font-size: .4rem;
+  margin: 0;
+  padding: 2px;
+  display: none;
+}
+.fas:hover span:nth-child(1) {
+  display: inline;
 }
 
 body {
@@ -114,6 +125,10 @@ nav.top-rightX {
 .title {
   // display:inline-block;
   text-align: center;
+}
+
+.menu-item {
+  text-decoration: none;
 }
 .menu {
   position: fixed;
