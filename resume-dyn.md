@@ -2,13 +2,22 @@
 layout: default
 title: resume
 ---
+
+
+# {{ site.data.resume.basics.name }}
+{% for prof in site.data.resume.basics.profiles %}
+
+    {% if prof.network == "linkedin" %}
+        <i class="fab fa-linkedin-in igreen" aria-hidden="true"></i>
+        <a href="{{ prof.url }}">{{ prof.username }}</a>
+    {% endif %}
+{% endfor %}
+
 <ul>
 {% for job in site.data.resume.work %}
 <li>{{ job.company }}</li>
 {% endfor %}
 </ul>
-
-<!-- # {{ site.data.resume.basics.name }} -->
 
 <i class="fab fa-linkedin-in igreen" aria-hidden="true"></i>
  [www.linkedin.com/in/brettschwarz](https://www.linkedin.com/in/brettschwarz)
