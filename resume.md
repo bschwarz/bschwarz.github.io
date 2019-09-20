@@ -2,8 +2,13 @@
 layout: default
 title: resume
 published: true
-categories: [resume, experience]
-tags: [resume, work, skills]
+categories:
+  - resume
+  - experience
+tags:
+  - resume
+  - work
+  - skills
 author: Brett Schwarz
 ---
 
@@ -259,4 +264,3 @@ How to create a single CD for fast and easy customized installation.
 >Brett worked on my team for many years, and was a key leader in pushing forward good API design.  Brett has outstanding skills as both a coder and an architect that can understand business use cases, data models, and how to design highly reusable APIs.  On top of that, however, Brett did incredible work on his own initiative to build tooling sets to make API creation faster and easier for other developers.  
 
 >Brett is a truly outstanding senior technologist and I consider myself fortunate to have worked with him.
-
