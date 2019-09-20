@@ -2,8 +2,13 @@
 layout: default
 title: resume
 published: true
-categories: [resume, experience]
-tags: [resume, work, skills]
+categories:
+  - resume
+  - experience
+tags:
+  - resume
+  - work
+  - skills
 author: Brett Schwarz
 ---
 
@@ -85,18 +90,19 @@ Here's an overview of my experience:
 
 **Alcatel-Lucent** (July 2008 - August 2009)
 
-* Supported sales team with technical expertise for product presentations and collaborated with internal teams on customer solutions.  
-* Assisted the sales team to secure a major strategic win, by educating customers on product details and mapping them to customer objectives.
+* Supported sales team with technical expertise for product presentations
+and consultations to the customer up to the VP level.  
+* Achieved highest-ranked sales engineer status by assisting the sales team
+to secure a major strategic win.
 
 ### Senior Network Systems Engineer
 
 **Alcatel-Lucent** (October 2005 - July 2008)
 
-* Headed the performance optimization team from an engineering and project management role. 
-* Reduced turnaround time and increased effectiveness of statistics reporting by developing an internal web-based reporting tool. 
-* Accelerated customer’s understanding of the products by providing presentations and weekly performance updates. 
-* Improved resolution time of performance issues by assisting the customer and internal teams in analyzing statistics.
-* Improved internal understanding of the product’s performance by collaborating with development and system engineering.
+* Headed the performance optimization team from an engineering and project management role.
+* Accelerated customer’s understanding of the products by providing presentations and weekly performance updates to customer up to the VP level.
+* Reduced turnaround time and increased effectiveness of statistics reporting by developing an internal web-based reporting tool.
+* Collaborated with development and system engineering on performance issues to improve the product’s performance.
 
 ### Implementation Engineer
 
@@ -259,4 +265,3 @@ How to create a single CD for fast and easy customized installation.
 >Brett worked on my team for many years, and was a key leader in pushing forward good API design.  Brett has outstanding skills as both a coder and an architect that can understand business use cases, data models, and how to design highly reusable APIs.  On top of that, however, Brett did incredible work on his own initiative to build tooling sets to make API creation faster and easier for other developers.  
 
 >Brett is a truly outstanding senior technologist and I consider myself fortunate to have worked with him.
-
