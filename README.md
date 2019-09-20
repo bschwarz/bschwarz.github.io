@@ -4,4 +4,4 @@ This was original forked from [Jekyll Now](https://www.jekyllnow.com/) and has g
 
 ## Copyright and License
 
-Copyright 2019 Brett Schwarz. Code released under the [MIT](https://github.com/bschwarz/bschwarz.github.io/blob/gh-pages/LICENSE) license.
+Copyright 2019 Brett Schwarz. The content of this project itself is licensed under the [Creative Commons Attribution 3.0 Unported license](https://creativecommons.org/licenses/by/3.0/), and the underlying source code used to format and display that content is licensed under the [MIT license](LICENSE.md).
