@@ -17,6 +17,6 @@ title: home
 * interested in fitness and nutrition
 * finished nanodegree through udacity for frontend web developer
 * I have held various roles as system/network engineer, sales engineer, technical pm, architect, programmer
-* ....
+* ...
 
 click on my funny face for more info
