@@ -2,7 +2,9 @@
 layout: default
 title: home
 ---
-
+{% plantuml %}
+[First] - [Second]
+{% endplantuml %}
 
 # hi, i'm brett
 ## a brief history...
