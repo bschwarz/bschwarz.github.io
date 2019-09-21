@@ -80,13 +80,6 @@ plugins_dir: ./_plugins
 plugins:
   - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
-  - jekyll-plantuml
-
-plantuml:
-  plantuml_jar: _bin/plantuml.jar     # path to plantuml jar
-  tmp_folder: _plantuml               # tmp folder to put generated image files
-  dot_exe: /usr/bin/dot               # [optional] path to Graphviz dot execution
-  background_color: white             # [optional] UML image background color
 
 # Exclude these files from your production _site
 exclude:
