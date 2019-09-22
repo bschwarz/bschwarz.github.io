@@ -30,42 +30,42 @@
     },
     {
       "company": "AT&T",
-      "summary": "\u2022 Established best practices for web services across AT&T as a member of the internal standards team. \n\u2022 Oversaw and improved API design, security, and privacy for externally exposed APIs as a member of the external API governance team.\n\u2022 Advanced the adoption of OpenAPI (Swagger) across the company by developing tools and educating internal teams.\n\u2022 Consulted and mentored internal teams on API design to optimize the solution based on project goals and existing network architecture.\n\u2022 Contributed a significant amount of content and knowledge towards an internal company-wide training program for REST APIs.\n\u2022 Accelerated REST adoption by authoring numerous articles on REST concepts and design, and specifically with the microservices teams.",
+      "summary": "\u2022 Established best practices for web services across AT&T as a member of the internal standards team. \u2022 Oversaw and improved API design, security, and privacy for externally exposed APIs as a member of the external API governance team. \u2022 Advanced the adoption of OpenAPI (Swagger) across the company by developing tools and educating internal teams. \u2022 Consulted and mentored internal teams, specifically microservices, on API design to optimize the solution based on project goals and existing network architecture. \u2022 Accelerated REST adoption by authoring numerous articles on REST concepts/design and collaborating on a company-wide training program.",
       "position": "Principal Technical Architect",
       "startDate": "2015-06-01",
       "endDate": "2018-01-01"
     },
     {
       "company": "Sentaca",
-      "summary": "\u2022 Ensured proper service integration with existing architecture by collaborating with customers and internal teams on user stories.\n\u2022 Designed and authored specifications for REST APIs.\n\u2022 Promoted and educated customers on APIs at conferences and hack-a-thons.\n\u2022 Streamlined internal documentation system by implementing tooling and process improvement.\n\u2022 Developed automation tools for API verification.",
+      "summary": "\u2022 Ensured optimal solution by collaborating with customers and internal teams on technical and business requirements. \u2022 Collaborated on the architecture of end to end solutions for the service exposure layer of enterprise and consumer services. \u2022 Promoted API solutions at conferences and hack-a-thons by educating and demonstrating to customers the solution’s capabilities. \u2022 Deployed and tested API solutions with high availability, scalability, and low latency design criteria into the Amazon AWS EC2 and AT&T AIC cloud. \u2022 Designed a new documentation system improving workflow and quality.",
       "position": "Solutions Architect",
       "startDate": "2011-06-01",
       "endDate": "2015-05-01"
     },
     {
       "company": "AT&T",
-      "summary": "\u2022 Headed the performance testing efforts for the messaging platform.\n\u2022 Mentored team members on mobile and IT networks.\n\u2022 Developed software tools for automation, troubleshooting and to interact with the platforms.",
+      "summary": "\u2022 Headed the performance testing efforts for the messaging platform, including authoring test cases, test case execution, and managing defects. \u2022 Mentored team members on mobile and IT networks, by holding periodic workshops and consulting on projects. \u2022 Developed software tools for automation and troubleshooting.",
       "position": "Senior Test Engineer",
       "startDate": "2010-10-01",
       "endDate": "2011-06-01"
     },
     {
       "company": "T-Mobile",
-      "summary": "\u2022 Designed and engineered subscriber-based mobile network elements.\n\u2022 Authored requirements, MOPs, and process documentation. \n\u2022 Developed tools to streamline the implementation and troubleshooting. \n\u2022 Successfully lead the engineering team on complex subscriber and partner migration to a new platform.",
+      "summary": "\u2022 Designed and engineered subscriber-based mobile network elements. \u2022 Authored requirements, MOPs, and process documentation. \u2022 Successfully lead the engineering team on a complex subscriber and partner migration to a new platform. \u2022 Developed tools to streamline the implementation and troubleshooting.",
       "position": "Senior Engineer",
       "startDate": "2010-05-01",
       "endDate": "2010-10-01"
     },
     {
       "company": "Alcatel-Lucent",
-      "summary": "\u2022 Supported sales team with technical expertise for product presentations and consultations to the customer up to the VP level.\n\u2022 Achieved highest-ranked sales engineer status by assisting the sales team to secure a major strategic win.",
+      "summary": "\u2022 Supported sales team with technical expertise for product presentations and consultations to the customer up to the VP level. \u2022 Achieved highest-ranked sales engineer status by assisting the sales team to secure a major strategic win.",
       "position": "Technical Sales Engineer",
       "startDate": "2008-08-01",
       "endDate": "2009-09-01"
     },
     {
       "company": "Alcatel-Lucent",
-      "summary": "\u2022 Headed the performance optimization team from an engineering and project management role. \n\u2022 Accelerated customer’s understanding of the products by providing presentations and weekly performance updates to customer up to the VP level. \n\u2022 Reduced turnaround time and increased effectiveness of statistics reporting by developing an internal web-based reporting tool. \n\u2022 Collaborated with development and system engineering on performance issues to improve the product’s performance.",
+      "summary": "\u2022 Headed the performance optimization customer team from an engineering and project management role. \u2022 Accelerated customer’s understanding of the products by providing presentations and weekly performance updates to the customer up to the VP level, on the core network (GSM, UMTS). \u2022 Reduced turnaround time and increased effectiveness of statistics reporting by developing an internal web-based reporting tool.  \u2022 Collaborated with development and system engineering on performance issues to improve the product’s performance.",
       "position": "Senior Network Systems Engineer",
       "startDate": "2005-11-01",
       "endDate": "2008-08-01"
@@ -180,7 +180,8 @@
         "CVS",
         "SVN",
         "Bitbucket",
-        "Agile"
+        "Agile",
+        "DevSecOps"
       ]
     },
     {
@@ -189,23 +190,25 @@
       "keywords": [
         "REST",
         "OpenAPI Specification (OAS)",
+        "OAuth 2.0",
         "JSON Schema",
         "HTTP/1.1",
         "HTTP/2",
         "SOAP",
         "WSDL",
+        "XML",
         "GraphQL"
       ]
     },
     {
-      "name": "Solution Architecture",
+      "name": "Network Architecture",
       "level": "5",
-      "keywords": ["Mobile Networks", "IT Networks"]
+      "keywords": ["Mobile Networks", "IT Networks", "TCP/IP", "OSI"]
     },
     {
       "name": "Computers",
       "level": "4",
-      "keywords": ["Linux/Unix", "Windows", "Mac", "TCP/IP"]
+      "keywords": ["Linux/Unix", "Windows", "Mac", "MS Office"]
     },
     {
       "name": "Web Development",
@@ -254,16 +257,8 @@
   ],
   "references": [
     {
-      "name": "Sayee Gurumurthy (Enterprise Architect, Visionary and Entrepreneur)",
-      "reference": "I worked with Brett for more than 5 years and is a great enthusiastic & approachable leader. His mastery on API design and documentation, has been critical in launching many successfully APIs in marketplace. Along with his API design skills, he has been leading in building tools for API creation, specification creation and development. \n\nHe is avid leaner and is curios to learning new technology and build tools to support his concepts. He is a great enthusiastic technical leader, who can take a concept from initiation to completion stage.  Will be willing to work with him again as opportunity permits."
-    },
-    {
       "name": "Bryon Donahue (Lead-Technical Architect at AT&T)",
       "reference": "I worked with Brett for several years. He was a contributor to AT&T\u2019s API platform and standards. Furthermore, we\u2019d often consult with one another when confronted with difficult API problems. \n\nBrett is an API expert. He\u2019s worked on a large number of API projects that span wide variety of domains. Few people have the breadth and depth of API experience as Brett.\n\nBeyond, his technical skills, Brett is the kind of person that people look to as a leader due to his strong oral and written communication skills and his natural ability to empathize with others. Moreover, you can count on Brett to deliver on his commitments."
-    },
-    {
-      "name": "Rajender Saini (Partner Engineer (Pre/Post Sales) at The Climate Corporation)",
-      "reference": "I had the pleasure of working with Brett for more than 4 years at the AT&T. As an architect and technical lead Brett's have the ability to command a room and get people on board with ideas\u2014even people who were initially on completely different pages. As a team member or a leader, Brett earns my highest recommendation."
     },
     {
       "name": "Tish St. Germain (Product leadership throughout lifecycle. Integrator of software & hardware development using Scaled Agile methodology.)",
@@ -280,6 +275,14 @@
     {
       "name": "Ed Lambert (Director, New Product Development Engineering - AT&T Research Labs)",
       "reference": "Brett worked on my team for many years, and was a key leader in pushing forward good API design.  Brett has outstanding skills as both a coder and an architect that can understand business use cases, data models, and how to design highly reusable APIs.  On top of that, however, Brett did incredible work on his own initiative to build tooling sets to make API creation faster and easier for other developers.  \n\nBrett is a truly outstanding senior technologist and I consider myself fortunate to have worked with him."
+    },
+    {
+      "name": "Rajender Saini (Partner Engineer (Pre/Post Sales) at The Climate Corporation)",
+      "reference": "I had the pleasure of working with Brett for more than 4 years at the AT&T. As an architect and technical lead Brett's have the ability to command a room and get people on board with ideas\u2014even people who were initially on completely different pages. As a team member or a leader, Brett earns my highest recommendation."
+    },
+    {
+      "name": "Sayee Gurumurthy (Enterprise Architect, Visionary and Entrepreneur)",
+      "reference": "I worked with Brett for more than 5 years and is a great enthusiastic & approachable leader. His mastery on API design and documentation, has been critical in launching many successfully APIs in marketplace. Along with his API design skills, he has been leading in building tools for API creation, specification creation and development. \n\nHe is avid leaner and is curios to learning new technology and build tools to support his concepts. He is a great enthusiastic technical leader, who can take a concept from initiation to completion stage.  Will be willing to work with him again as opportunity permits."
     }
   ]
 }
