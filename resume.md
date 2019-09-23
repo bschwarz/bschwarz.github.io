@@ -27,10 +27,6 @@ author: Brett Schwarz
 ***
 
 ## Overview
-
-I like solving problems, big and small. More importantly, I like finding the most elegant, creative and effective solution to a problem (perhaps this is why Design Thinking resonates with me). I've been like this for as long as I can remember, even as a kid working with my dad's tools. Nowadays I use my math, engineering and software background as tools to solve problems. I have used these tools in different roles, from sales engineering, system engineering, operations, software and architect roles. There's nothing quite like the satisfaction you get when your team solves a complex problem elegantly. This is what I like, and this is what I believe I do well.
-
-Here's an overview of my experience:
 * Well-rounded and can effectively adapt to different environments, concepts, and technologies.
 * Variety of roles in software engineering/design, system/solution engineering, sales engineering, consulting, testing, and technical project management.
 * Clear, in-depth understanding of mobile and IT network architectures.
