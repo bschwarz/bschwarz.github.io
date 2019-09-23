@@ -24,30 +24,53 @@
   "work": [
     {
       "company": "AT&T",
-      "summary": "\u2022 Architected, developed, and productized an internal web application to automate and expedite REST API design, maintenance, and delivery.\n\u2022 Maintained responsibilities held under the Principal Technical Architect title.",
+      "summary": "",
       "position": "Principal System Engineer",
-      "startDate": "2018-01-01"
+      "startDate": "2018-01-01",
+      "highlights": [
+        "Architected, developed, and productized an internal web application to automate and expedite REST API design, maintenance, and delivery.",
+        "Maintained responsibilities held under the Principal Technical Architect title."
+      ]
     },
     {
       "company": "AT&T",
-      "summary": "\u2022 Established best practices for web services across AT&T as a member of the internal standards team. \u2022 Oversaw and improved API design, security, and privacy for externally exposed APIs as a member of the external API governance team. \u2022 Advanced the adoption of OpenAPI (Swagger) across the company by developing tools and educating internal teams. \u2022 Consulted and mentored internal teams, specifically microservices, on API design to optimize the solution based on project goals and existing network architecture. \u2022 Accelerated REST adoption by authoring numerous articles on REST concepts/design and collaborating on a company-wide training program.",
+      "summary": "",
       "position": "Principal Technical Architect",
       "startDate": "2015-06-01",
-      "endDate": "2018-01-01"
+      "endDate": "2018-01-01",
+      "highlights": [
+        "Established best practices for web services across AT&T as a member of the internal standards team.",
+        "Oversaw and improved API design, security, and privacy for externally exposed APIs as a member of the external API governance team.",
+        "Advanced the adoption of OpenAPI (Swagger) across the company by developing tools and educating internal teams.",
+        "Consulted and mentored internal teams, specifically microservices, on API design to optimize the solution based on project goals and existing network architecture.",
+        "Accelerated REST adoption by authoring numerous articles on REST concepts/design and collaborating on a company-wide training program."
+      ]
     },
     {
       "company": "Sentaca",
-      "summary": "\u2022 Ensured optimal solution by collaborating with customers and internal teams on technical and business requirements. \u2022 Collaborated on the architecture of end to end solutions for the service exposure layer of enterprise and consumer services. \u2022 Promoted API solutions at conferences and hack-a-thons by educating and demonstrating to customers the solution’s capabilities. \u2022 Deployed and tested API solutions with high availability, scalability, and low latency design criteria into the Amazon AWS EC2 and AT&T AIC cloud. \u2022 Designed a new documentation system improving workflow and quality.",
+      "summary": "",
       "position": "Solutions Architect",
       "startDate": "2011-06-01",
-      "endDate": "2015-05-01"
+      "endDate": "2015-05-01",
+      "highlights": [
+        "Ensured optimal solution by collaborating with customers and internal teams on technical and business requirements.",
+        "Collaborated on the architecture of end to end solutions for the service exposure layer of enterprise and consumer services.",
+        "Promoted API solutions at conferences and hack-a-thons by educating and demonstrating to customers the solution’s capabilities.",
+        "Deployed and tested API solutions with high availability, scalability, and low latency design criteria into the Amazon AWS EC2 and AT&T AIC cloud.",
+        "Designed a new documentation system improving workflow and quality"
+      ]
     },
     {
       "company": "AT&T",
-      "summary": "\u2022 Headed the performance testing efforts for the messaging platform, including authoring test cases, test case execution, and managing defects. \u2022 Mentored team members on mobile and IT networks, by holding periodic workshops and consulting on projects. \u2022 Developed software tools for automation and troubleshooting.",
+      "summary": "",
       "position": "Senior Test Engineer",
       "startDate": "2010-10-01",
-      "endDate": "2011-06-01"
+      "endDate": "2011-06-01",
+      "highlights": [
+        "Headed the performance testing efforts for the messaging platform, including authoring test cases, test case execution, and managing defects.",
+        "Mentored team members on mobile and IT networks, by holding periodic workshops and consulting on projects.",
+        "Developed software tools for automation and troubleshooting."
+      ]
     },
     {
       "company": "T-Mobile",
@@ -58,45 +81,78 @@
     },
     {
       "company": "Alcatel-Lucent",
-      "summary": "\u2022 Supported sales team with technical expertise for product presentations and consultations to the customer up to the VP level. \u2022 Achieved highest-ranked sales engineer status by assisting the sales team to secure a major strategic win.",
+      "summary": "",
       "position": "Technical Sales Engineer",
       "startDate": "2008-08-01",
-      "endDate": "2009-09-01"
+      "endDate": "2009-09-01",
+      "highlights": [
+        "Supported sales team with technical expertise for product presentations and consultations to the customer up to the VP level.",
+        "Achieved highest-ranked sales engineer status by assisting the sales team to secure a major strategic win."
+      ]
     },
     {
       "company": "Alcatel-Lucent",
-      "summary": "\u2022 Headed the performance optimization customer team from an engineering and project management role. \u2022 Accelerated customer’s understanding of the products by providing presentations and weekly performance updates to the customer up to the VP level, on the core network (GSM, UMTS). \u2022 Reduced turnaround time and increased effectiveness of statistics reporting by developing an internal web-based reporting tool.  \u2022 Collaborated with development and system engineering on performance issues to improve the product’s performance.",
+      "summary": "",
       "position": "Senior Network Systems Engineer",
       "startDate": "2005-11-01",
-      "endDate": "2008-08-01"
+      "endDate": "2008-08-01",
+      "highlights": [
+        "Headed the performance optimization customer team from an engineering and project management role.",
+        "Accelerated customer’s understanding of the products by providing presentations and weekly performance updates to the customer up to the VP level, on the core network (GSM, UMTS).",
+        "Reduced turnaround time and increased effectiveness of statistics reporting by developing an internal web-based reporting tool.",
+        "Collaborated with development and system engineering on performance issues to improve the product’s performance."
+      ]
     },
     {
       "company": "HMS Software",
-      "summary": "\u2022 Translated requirements from the customer into customized code that implemented new features into our standard software product (manufacturing ERP).  \n\u2022 Performed testing, managed all bug fixes and collaborated with the customer on the integration of the solution.\n\u2022 Increased productivity by mentoring other engineers in the Tcl programming language.\n\u2022 Optimized legacy code by conforming code to new features.",
+      "summary": "",
       "position": "Implementation Engineer",
       "startDate": "2005-01-01",
-      "endDate": "2005-11-01"
+      "endDate": "2005-11-01",
+      "highlights": [
+        "Translated requirements from the customer into customized code that implemented new features into our standard software product (manufacturing ERP).",
+        "Performed testing, managed all bug fixes and collaborated with the customer on the integration of the solution.",
+        "Increased productivity by mentoring other engineers in the Tcl programming language.",
+        "Optimized legacy code by conforming code to new features."
+      ]
     },
     {
       "company": "ATT Wireless",
-      "summary": "\u2022 Engineered messaging platforms (e.g. SMSCs) within the company's mobile network.\n\u2022 Worked with the vendor to find the optimal solution and verification of the solution.\n\u2022 Reduced response time and improved quality by developing several software tools.",
+      "summary": "",
       "position": "Senior Engineer",
       "startDate": "2003-04-01",
-      "endDate": "2004-12-01"
+      "endDate": "2004-12-01",
+      "highlights": [
+        "Engineered messaging platforms (e.g. SMSCs) within the company's mobile network.",
+        "Worked with the vendor to find the optimal solution and verification of the solution.",
+        "Reduced response time and improved quality by developing several software tools."      
+      ]
     },
     {
       "company": "PacketVideo Corporation",
-      "summary": "\u2022 Designed, tested and integrated our server (Linux) platform installation and architecture. \n\u2022 Lead first complete integration effort of our product line into the customer\u2019s network (JSP and servlets on Apache/Tomcat).\n\u2022 Significantly reduced cycle time and improved quality by developing a customized RedHat Linux Kickstart installation.\n\u2022 Improved internal communication by developing a web application for installation activities.\n\u2022 Provided pre and post-sales support, including presentations for the customers.",
+      "summary": "",
       "position": "Lead Network Engineer",
       "startDate": "2000-06-01",
-      "endDate": "2002-04-01"
+      "endDate": "2002-04-01",
+      "highlights": [
+        "Designed, tested and integrated our server (Linux) platform installation and architecture.",
+        "Lead first complete integration effort of our product line into the customer\u2019s network (JSP and servlets on Apache/Tomcat).",
+        "Significantly reduced cycle time and improved quality by developing a customized RedHat Linux Kickstart installation.",
+        "Improved internal communication by developing a web application for installation activities.",
+        "Provided pre and post-sales support, including presentations for the customers."
+      ]
     },
     {
       "company": "Motorola",
-      "summary": "\u2022 Design, tested and integrated products into the customer\u2019s mobile network.\n\u2022 Lead several major network changeouts for the engineering team.\n\u2022 Enhanced subscriber accessibility by developing procedure and software tools to migrate/modify subscribers efficiently and in a significantly reduced time frame.",
+      "summary": "",
       "position": "Lead Systems Engineer",
       "startDate": "1996-10-01",
-      "endDate": "2000-06-01"
+      "endDate": "2000-06-01",
+      "highlights": [
+        "Design, tested and integrated products into the customer\u2019s mobile network.",
+        "Lead several major network changeouts for the engineering team.",
+        "Enhanced subscriber accessibility by developing procedure and software tools to migrate/modify subscribers efficiently and in a significantly reduced time frame."
+      ]
     }
   ],
   "education": [
