@@ -74,10 +74,16 @@
     },
     {
       "company": "T-Mobile",
-      "summary": "\u2022 Designed and engineered subscriber-based mobile network elements. \u2022 Authored requirements, MOPs, and process documentation. \u2022 Successfully lead the engineering team on a complex subscriber and partner migration to a new platform. \u2022 Developed tools to streamline the implementation and troubleshooting.",
+      "summary": "",
       "position": "Senior Engineer",
       "startDate": "2010-05-01",
-      "endDate": "2010-10-01"
+      "endDate": "2010-10-01",
+      "highlights": [
+        "Designed and engineered subscriber-based mobile network elements.",
+        "Authored requirements, MOPs, and process documentation.",
+        "Successfully lead the engineering team on a complex subscriber and partner migration to a new platform.",
+        "Developed tools to streamline the implementation and troubleshooting."
+      ]
     },
     {
       "company": "Alcatel-Lucent",
@@ -299,16 +305,16 @@
       "fluency": "Native or bilingual proficiency"
     },
     {
+      "language": "Spanish",
+      "fluency": "Limited working"
+    },
+    {
       "language": "German",
       "fluency": "Limited working"
     },
     {
       "language": "Mandarin",
       "fluency": "Elementary"
-    },
-    {
-      "language": "Spanish",
-      "fluency": "Limited working"
     }
   ],
   "references": [
