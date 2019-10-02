@@ -1,6 +1,12 @@
 [
   {
     "name": "bschwarz.github.io",
+    "description": "My Personal Website, built on Github Pages with Jekyll.",
     "url": "https://github.com/bschwarz/bschwarz.github.io"
-  }
+  },
+  {
+    "name": "Pgtcl",
+    "description": "A Tcl binding to PostgreSQL database that I worked on many years ago.",
+    "url": "https://github.com/flightaware/Pgtcl"
+  },
 ]
