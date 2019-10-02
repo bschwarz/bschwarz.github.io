@@ -5,8 +5,18 @@
     "url": "https://github.com/bschwarz/bschwarz.github.io"
   },
   {
+    "name": "Puml Themes",
+    "description": "A set of themes for plantuml diagramming tool.",
+    "url": "https://bschwarz.github.io/puml-themes/"
+  },
+  {
     "name": "Pgtcl",
     "description": "A Tcl binding to PostgreSQL database that I worked on many years ago.",
     "url": "https://github.com/flightaware/Pgtcl"
   },
+  {
+    "name": "Tcl Standard Lib - record data structure",
+    "description": "A Tcl data structure I worked on many years ago.",
+    "url": "https://github.com/tcltk/tcllib/blob/master/modules/struct/record.tcl"
+  }
 ]
