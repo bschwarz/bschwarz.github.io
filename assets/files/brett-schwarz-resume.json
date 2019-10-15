@@ -256,6 +256,8 @@
         "JSON Schema",
         "HTTP/1.1",
         "HTTP/2",
+        "WebSockets",
+        "IAM",
         "SOAP",
         "WSDL",
         "XML",
