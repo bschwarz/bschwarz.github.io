@@ -39,10 +39,10 @@
       "startDate": "2015-06-01",
       "endDate": "2018-01-01",
       "highlights": [
-        "Established best practices for web services across AT&T as a member of the internal standards team.",
-        "Oversaw and improved API design, security, and privacy for externally exposed APIs as a member of the external API governance team.",
+        "Established best practices for REST web services across AT&T as a member of the internal standards team.",
+        "Oversaw and improved API design, security, and privacy for externally exposed REST/SOAP APIs as a member of the API governance team.",
         "Advanced the adoption of OpenAPI (Swagger) across the company by developing tools and educating internal teams.",
-        "Consulted and mentored internal teams, specifically microservices, on API design to optimize the solution based on project goals and existing network architecture.",
+        "Consulted and mentored internal teams (specifically microservices) on API design to optimize the solution based on project goals and existing network architecture.",
         "Accelerated REST adoption by authoring numerous articles on REST concepts/design and collaborating on a company-wide training program."
       ]
     },
@@ -230,11 +230,10 @@
       "name": "Software Development",
       "level": "4",
       "keywords": [
-        "C",
         "Tcl/Tk",
-        "JavaScript",
         "Node.js",
-        "python",
+        "C",
+        "Python",
         "Java",
         "shell",
         "Git",
@@ -243,7 +242,9 @@
         "SVN",
         "Bitbucket",
         "Agile",
-        "DevSecOps"
+        "DevSecOps",
+        "Jenkins",
+        "Travis CI"
       ]
     },
     {
@@ -251,23 +252,23 @@
       "level": "5",
       "keywords": [
         "REST",
-        "OpenAPI Specification (OAS)",
+        "OpenAPI (Swagger)",
         "OAuth 2.0",
         "JSON Schema",
         "HTTP/1.1",
         "HTTP/2",
         "WebSockets",
-        "IAM",
         "SOAP",
         "WSDL",
         "XML",
-        "GraphQL"
+        "GraphQL",
+        "RAML"
       ]
     },
     {
       "name": "Network Architecture",
       "level": "5",
-      "keywords": ["Mobile Networks", "IT Networks", "TCP/IP", "OSI"]
+      "keywords": ["Mobile Networks", "IT Networks", "TCP/IP", "OSI", "AWS IAM", "AWS Lambda", "AWS EC2", "AWS S3"]
     },
     {
       "name": "Computers",
@@ -282,10 +283,8 @@
         "CSS",
         "JavaScript",
         "jQuery",
-        "Node.js",
         "Gulp",
         "Grunt",
-        "Babel",
         "Knockout.js",
         "AngularJS",
         "Bootstrap",
@@ -296,9 +295,9 @@
       ]
     },
     {
-      "name": "Databases",
+      "name": "Datastores",
       "level": "4",
-      "keywords": ["PostgreSQL", "SQLite", "MySQL", "Oracle", "MongoDB"]
+      "keywords": ["PostgreSQL", "SQLite", "MySQL", "Oracle", "MongoDB", "DynamoDB", "Redis", "Memcached"]
     }
   ],
   "languages": [
