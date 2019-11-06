@@ -96,13 +96,13 @@ title: resume
 <td><span class="langlevel">||||||||</span><span>||</span></td>
 {% endif %}
 {% if lang.fluency contains "Professional" %}
-<td><span class="langlevel">||||||</span><span>||||</span></td>
+<td><span class="langlevel">|||||||</span><span>||||</span></td>
 {% endif %}
 {% if lang.fluency contains "Limited" %}
-<td><span class="langlevel">||||</span><span>||||||</span></td>
+<td><span class="langlevel">|||||</span><span>||||||</span></td>
 {% endif %}
 {% if lang.fluency contains "Elementary" %}
-<td><span class="langlevel">||</span><span>||||||||</span></td>
+<td><span class="langlevel">|||</span><span>||||||||</span></td>
 {% endif %}
 
 <td></td>
