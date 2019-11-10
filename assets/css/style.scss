@@ -218,8 +218,8 @@ nav.top-rightX {
 /* Style the tab */
 .tab {
   overflow: hidden;
-  border: 1px solid #ccc;
-  background-color: #f1f1f1;
+  border: 1px solid #111111;
+  background-color: #151515;
 }
 
 /* Style the buttons that are used to open the tab content */
@@ -235,18 +235,18 @@ nav.top-rightX {
 
 /* Change background color of buttons on hover */
 .tab button:hover {
-  background-color: #ddd;
+  background-color: #222;
 }
 
 /* Create an active/current tablink class */
 .tab button.active {
-  background-color: #ccc;
+  background-color: #222;
 }
 
 /* Style the tab content */
 .tabcontent {
   display: none;
   padding: 6px 12px;
-  border: 1px solid #ccc;
+  border: 1px solid #222;
   border-top: none;
 }

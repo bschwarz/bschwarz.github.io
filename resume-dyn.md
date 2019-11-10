@@ -8,7 +8,7 @@ title: resume
   <button class="tablinks button" onclick="openTab('diagram')">Graphiical Resume</button>
 </div>
 
-<div id="text" class="tab tabcontent">
+<div id="text" class="tab tabcontent" style="display: block;">
 
 # {{ site.data.resume.basics.name }}
 
