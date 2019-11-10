@@ -12,7 +12,8 @@ author: Brett Schwarz
   <a href='{{ proj.url }}'>
     {{ proj.name }}
   </a>
-    {{ proj.description }}
+    
+      {{ proj.description }}
   </li>
 {% endfor %}
 </ul>
