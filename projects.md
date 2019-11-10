@@ -12,6 +12,7 @@ author: Brett Schwarz
   <a href='{{ proj.url }}'>
     {{ proj.name }}
   </a>
+    {{ proj.description }}
   </li>
 {% endfor %}
 </ul>
