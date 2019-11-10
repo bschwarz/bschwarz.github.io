@@ -8,7 +8,7 @@ title: resume
   <button class="tablinks button" onclick="openTab('diagram')">Graphiical Resume</button>
 </div>
 
-<div id="text" class="tab tabcontent" style="display: block;">
+<div id="text" class="tabcontent" style="display: block;">
 
 # {{ site.data.resume.basics.name }}
 
@@ -131,13 +131,13 @@ title: resume
 </div>
 
 <div id="diagram" class="tab tabcontent">
-<img src="assets/images/resume-dark.png">
+<img src="{{ site.baseurl }}/assets/images/resume-dark.png">
 </div>
 
 <script>
 function openTab(name) {
   var i;
-  var x = document.getElementsByClassName("tab");
+  var x = document.getElementsByClassName("tabcontent");
   for (i = 0; i < x.length; i++) {
     x[i].style.display = "none";  
   }
