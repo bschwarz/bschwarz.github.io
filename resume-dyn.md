@@ -5,17 +5,14 @@ title: resume
 
 <h1> {{ site.data.resume.basics.name }} </h1>
 
-
+<div>
 {% for prof in site.data.resume.basics.profiles %}
 
 {% if prof.network == "linkedin" %}
 <i class="fab fa-linkedin-in igreen" aria-hidden="true"></i>
 {% endif %}
-
 <a href="{{ prof.url }}">{{ prof.username }}</a>
 {% endfor %}
-
-
 
 <i class="fas fa-envelope igreen" aria-hidden="true"></i>
 <a href="{{ site.data.resume.basics.email }}">{{ site.data.resume.basics.email }}</a>
@@ -26,7 +23,7 @@ title: resume
 
 <i class="fas fa-map-marker-alt igreen" aria-hidden="true"></i>
 <a href="{{ "https://www.google.com/maps/place/" | append: location }}">{{ location }}</a>
-
+</div>
 
 <hr/>
 
