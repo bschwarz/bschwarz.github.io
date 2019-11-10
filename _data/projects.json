@@ -2,7 +2,7 @@
   {
     "name": "omskep",
     "description": "Program that converts various formats (i.e. Swagger, resume.json, etc) to markdown for grahical representations, such as plantuml.",
-    "url": "https://github.com/bschwarz/omskep"
+    "url": "https://bschwarz.github.io/omskep/"
   },
   {
     "name": "Puml Themes",
