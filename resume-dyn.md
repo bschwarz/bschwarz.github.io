@@ -5,7 +5,7 @@ title: resume
 
 <div class="tab black">
   <button class="tablinks button" onclick="openTab('text')">Text Resume</button>
-  <button class="tablinks button" onclick="openTab('diagram')">Graphiical Resume</button>
+  <button class="tablinks button" onclick="openTab('diagram')">Graphical Resume</button>
 </div>
 
 <div id="text" class="tabcontent" style="display: block;">
