@@ -1,7 +1,7 @@
 {
   "basics": {
-    "name": "Brett",
-    "label": "Principal Engineer - Network and Software Engineering",
+    "name": "Brett Schwarz",
+    "label": "Principal Engineer",
     "summary": "Principal engineer with in-depth understanding of mobile and IT network architectures. Possess significant experience with product, service, and software life cycles, and customer engagement. Effective at adapting to different environments, concepts and technologies.",
     "email": "brett.schwarz@gmail.com",
     "phone": "+1-425-466-1731",
@@ -164,8 +164,15 @@
   "education": [
     {
       "institution": "University of Toledo",
-      "area": "Dual major in Electrical Engineering and Mathematics",
-      "studyType": "BS",
+      "area": "Electrical Engineering",
+      "studyType": "Bachelor of Science",
+      "startDate": "1988-09-01",
+      "endDate": "1991-12-01"
+    },
+    {
+      "institution": "University of Toledo",
+      "area": "Mathematics",
+      "studyType": "Bachelor of Science",
       "startDate": "1988-09-01",
       "endDate": "1991-12-01"
     },
@@ -268,7 +275,16 @@
     {
       "name": "Network Architecture",
       "level": "5",
-      "keywords": ["Mobile Networks", "IT Networks", "TCP/IP", "OSI", "AWS IAM", "AWS Lambda", "AWS EC2", "AWS S3"]
+      "keywords": [
+        "Mobile Networks",
+        "IT Networks",
+        "TCP/IP",
+        "OSI",
+        "AWS IAM",
+        "AWS Lambda",
+        "AWS EC2",
+        "AWS S3"
+      ]
     },
     {
       "name": "Computers",
@@ -297,7 +313,16 @@
     {
       "name": "Datastores",
       "level": "4",
-      "keywords": ["PostgreSQL", "SQLite", "MySQL", "Oracle", "MongoDB", "DynamoDB", "Redis", "Memcached"]
+      "keywords": [
+        "PostgreSQL",
+        "SQLite",
+        "MySQL",
+        "Oracle",
+        "MongoDB",
+        "DynamoDB",
+        "Redis",
+        "Memcached"
+      ]
     }
   ],
   "languages": [
