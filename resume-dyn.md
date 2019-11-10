@@ -36,8 +36,8 @@ title: resume
 <hr/>
 
 <div class="tab black">
-  <button class="tablinks button" onclick="openTab('text')">Text Resume</button>
-  <button class="tablinks button" onclick="openTab('diagram')">Graphical Resume</button>
+  <button id="text" class="tablinks button" onclick="openTab('text')">Text Resume</button>
+  <button id="diagram" class="tablinks button" onclick="openTab('diagram')">Graphical Resume</button>
 </div>
 
 
