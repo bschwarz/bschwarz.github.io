@@ -33,12 +33,12 @@ title: resume
 <hr/>
 
 <div class="tab black">
-  <button id="text-btn" class="tablinks button" onclick="openTab('text')">Text Resume</button>
+  <button id="text-btn" class="tablinks button active" onclick="openTab('text')">Text Resume</button>
   <button id="diagram-btn" class="tablinks button" onclick="openTab('diagram')">Graphical Resume</button>
 </div>
 
 
-<div id="text" class="tabcontent active" style="display: block;">
+<div id="text" class="tabcontent" style="display: block;">
   
 <h2> Experience</h2>
 {% for job in site.data.resume.work %}
@@ -138,7 +138,11 @@ function openTab(name) {
   var i;
   var x = document.getElementsByClassName("tabcontent");
   for (i = 0; i < x.length; i++) {
-    x[i].style.display = "none";  
+    x[i].style.display = "none";
+  }
+  var x = document.getElementsByClassName("tablinks");
+  for (i = 0; i < x.length; i++) {
+    x[i].classList.remove("active");
   }
   document.getElementById(name).style.display = "block";
   document.getElementById(name+'-btn').classList.add("active");
