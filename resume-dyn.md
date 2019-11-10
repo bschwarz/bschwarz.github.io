@@ -78,12 +78,12 @@ title: resume
 {% endfor %}
 
 <hr/>
-## Publications
+<h2> Publications</h2>
 
 {% for pub in site.data.resume.publications %}
 
 <h3> {{ pub.name }}</h3>
-[{{ pub.publisher }}](pub.website) ({{ pub.releaseDate | date: "%B %Y"}})
+<a href="{{ pub.website }}">{{ pub.publisher }}</a> ({{ pub.releaseDate | date: "%B %Y"}})
 
 {{ pub.summary }}
 
@@ -126,7 +126,7 @@ title: resume
 
 {% for ref in site.data.resume.references %}
 <b>{{ ref.name }}</b>
->{{ ref.reference | strip_newlines }}
+<blockquote>{{ ref.reference | strip_newlines }}</blockquote>
 {% endfor %}
 
 </div>
