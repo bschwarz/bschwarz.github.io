@@ -3,13 +3,6 @@ layout: default
 title: resume
 ---
 
-<div class="tab black">
-  <button class="tablinks button" onclick="openTab('text')">Text Resume</button>
-  <button class="tablinks button" onclick="openTab('diagram')">Graphical Resume</button>
-</div>
-
-<div id="text" class="tabcontent" style="display: block;">
-
 <h1> {{ site.data.resume.basics.name }} </h1>
 
 
@@ -42,6 +35,14 @@ title: resume
 
 <hr/>
 
+<div class="tab black">
+  <button class="tablinks button" onclick="openTab('text')">Text Resume</button>
+  <button class="tablinks button" onclick="openTab('diagram')">Graphical Resume</button>
+</div>
+
+
+<div id="text" class="tabcontent active" style="display: block;">
+  
 <h2> Experience</h2>
 {% for job in site.data.resume.work %}
 <h3> {{ job.position }}</h3>
@@ -142,6 +143,7 @@ function openTab(name) {
   for (i = 0; i < x.length; i++) {
     x[i].style.display = "none";  
   }
-  document.getElementById(name).style.display = "block";  
+  document.getElementById(name).style.display = "block";
+  document.getElementById(name).classList.add("active");
 }
 </script>
