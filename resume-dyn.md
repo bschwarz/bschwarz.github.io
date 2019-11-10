@@ -10,9 +10,9 @@ title: resume
 
 <div id="text" class="tabcontent" style="display: block;">
 
-# {{ site.data.resume.basics.name }}
+<h1> {{ site.data.resume.basics.name }} </h1>
 
-<div>
+
 {% for prof in site.data.resume.basics.profiles %}
 
     {% if prof.network == "linkedin" %}
@@ -21,7 +21,8 @@ title: resume
 
     <a href="{{ prof.url }}">{{ prof.username }}</a>
 {% endfor %}
-</div>
+
+
 
 <i class="fas fa-envelope igreen" aria-hidden="true"></i>
 <a href="{{ site.data.resume.basics.email }}">{{ site.data.resume.basics.email }}</a>
@@ -58,7 +59,7 @@ title: resume
 <hr/>
 {% for skill in site.data.resume.skills %}
 
-### {{ skill.name }}
+<h3>{{ skill.name }}</h3>
 <div>
 {% for key in skill.keywords %}
 <code class="highlighter-rouge">{{ key }}</code>
@@ -69,8 +70,8 @@ title: resume
 <hr/>
 {% for ed in site.data.resume.education %}
 
-### {{ ed.area }}
-**{{ ed.institution }}**
+<h3> {{ ed.area }}</h3>
+<b>{{ ed.institution }}</b>
 
 {{ ed.studyType }}
 
@@ -81,7 +82,7 @@ title: resume
 
 {% for pub in site.data.resume.publications %}
 
-### {{ pub.name }}
+<h3> {{ pub.name }}</h3>
 [{{ pub.publisher }}](pub.website) ({{ pub.releaseDate | date: "%B %Y"}})
 
 {{ pub.summary }}
@@ -90,7 +91,7 @@ title: resume
 
 
 <hr/>
-## Languages
+<h2> Languages</h2>
 <table>
 {% for lang in site.data.resume.languages %}
 <tr>
@@ -121,10 +122,10 @@ title: resume
 </table>
 
 <hr/>
-## References
+<h2> References</h2>
 
 {% for ref in site.data.resume.references %}
-**{{ ref.name }}**
+<b>{{ ref.name }}</b>
 >{{ ref.reference | strip_newlines }}
 {% endfor %}
 
