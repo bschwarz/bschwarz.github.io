@@ -218,6 +218,7 @@ nav.top-rightX {
 /* Style the tab */
 .tab {
   overflow: hidden;
+  color: #eaeaea;
   // border: 1px solid #111111;
   // background-color: #151515;
 }
@@ -247,6 +248,6 @@ nav.top-rightX {
 .tabcontent {
   display: none;
   padding: 6px 12px;
-  border: 1px solid #222;
+  // border: 1px solid #222;
   border-top: none;
 }
