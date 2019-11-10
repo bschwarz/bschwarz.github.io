@@ -24,27 +24,27 @@ title: resume
 </div>
 
 <i class="fas fa-envelope igreen" aria-hidden="true"></i>
-[{{ site.data.resume.basics.email }}](mailto:{{ site.data.resume.basics.email }})
+<a href="{{ site.data.resume.basics.email }}">{{ site.data.resume.basics.email }}</a>
 
 
 {% capture location %}{{ site.data.resume.basics.location.city }},{{ site.data.resume.basics.location.region }},{{ site.data.resume.basics.location.postalCode }} {{ site.data.resume.basics.location.countryCode }}
 {% endcapture %}
 
 <i class="fas fa-map-marker-alt igreen" aria-hidden="true"></i>
-[{{ location }}]({{ "https://www.google.com/maps/place/" | append: location }})
+<a href="{{ "https://www.google.com/maps/place/" | append: location }}">{{ location }}</a>
 
 
-***
+<hr/>
 
-## Overview
+<h2> Overview </h2>
 {{ site.data.resume.basics.summary }}
 
-***
+<hr/>
 
-## Experience
+<h2> Experience</h2>
 {% for job in site.data.resume.work %}
-### {{ job.position }}
-**{{ job.company }}** ({{ job.startDate | date: "%B %Y" }} - {{ job.endDate | date: "%B %Y" | default: "present" }})
+<h3> {{ job.position }}</h3>
+<b>{{ job.company }}</b> ({{ job.startDate | date: "%B %Y" }} - {{ job.endDate | date: "%B %Y" | default: "present" }})
 
 {{ job.summary }}
 <ul>
@@ -55,7 +55,7 @@ title: resume
 {% endfor %}
 
 
-***
+<hr/>
 {% for skill in site.data.resume.skills %}
 
 ### {{ skill.name }}
@@ -66,7 +66,7 @@ title: resume
 </div>
 {% endfor %}
 
-***
+<hr/>
 {% for ed in site.data.resume.education %}
 
 ### {{ ed.area }}
@@ -76,7 +76,7 @@ title: resume
 
 {% endfor %}
 
-***
+<hr/>
 ## Publications
 
 {% for pub in site.data.resume.publications %}
@@ -89,7 +89,7 @@ title: resume
 {% endfor %}
 
 
-***
+<hr/>
 ## Languages
 <table>
 {% for lang in site.data.resume.languages %}
@@ -120,7 +120,7 @@ title: resume
 {% endfor %}
 </table>
 
-***
+<hr/>
 ## References
 
 {% for ref in site.data.resume.references %}
