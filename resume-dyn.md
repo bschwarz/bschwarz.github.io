@@ -8,11 +8,11 @@ title: resume
 
 {% for prof in site.data.resume.basics.profiles %}
 
-    {% if prof.network == "linkedin" %}
-        <i class="fab fa-linkedin-in igreen" aria-hidden="true"></i>
-    {% endif %}
+{% if prof.network == "linkedin" %}
+<i class="fab fa-linkedin-in igreen" aria-hidden="true"></i>
+{% endif %}
 
-    <a href="{{ prof.url }}">{{ prof.username }}</a>
+<a href="{{ prof.url }}">{{ prof.username }}</a>
 {% endfor %}
 
 
