@@ -3,6 +3,12 @@ layout: default
 title: resume
 ---
 
+<div class="tab black">
+  <button class="tablinks button" onclick="openTab('text')">Text Resume</button>
+  <button class="tablinks button" onclick="openTab('diagram')">Graphiical Resume</button>
+</div>
+
+<div id="text" class="tab tabcontent">
 
 # {{ site.data.resume.basics.name }}
 
@@ -122,4 +128,19 @@ title: resume
 >{{ ref.reference | strip_newlines }}
 {% endfor %}
 
+</div>
 
+<div id="diagram" class="tab tabcontent">
+<img src="assets/images/resume-dark.png">
+</div>
+
+<script>
+function openTab(name) {
+  var i;
+  var x = document.getElementsByClassName("tab");
+  for (i = 0; i < x.length; i++) {
+    x[i].style.display = "none";  
+  }
+  document.getElementById(name).style.display = "block";  
+}
+</script>
