@@ -3,26 +3,16 @@ layout: default
 title: resume
 ---
 
-<div class="tab black">
-  <button class="tablinks button" onclick="openTab('text')">Text Resume</button>
-  <button class="tablinks button" onclick="openTab('diagram')">Graphical Resume</button>
-</div>
-
-<div id="text" class="tabcontent" style="display: block;">
-
 <h1> {{ site.data.resume.basics.name }} </h1>
 
-
+<div>
 {% for prof in site.data.resume.basics.profiles %}
 
-    {% if prof.network == "linkedin" %}
-        <i class="fab fa-linkedin-in igreen" aria-hidden="true"></i>
-    {% endif %}
-
-    <a href="{{ prof.url }}">{{ prof.username }}</a>
+{% if prof.network == "linkedin" %}
+<i class="fab fa-linkedin-in igreen" aria-hidden="true"></i>
+{% endif %}
+<a href="{{ prof.url }}">{{ prof.username }}</a>
 {% endfor %}
-
-
 
 <i class="fas fa-envelope igreen" aria-hidden="true"></i>
 <a href="{{ site.data.resume.basics.email }}">{{ site.data.resume.basics.email }}</a>
@@ -33,7 +23,7 @@ title: resume
 
 <i class="fas fa-map-marker-alt igreen" aria-hidden="true"></i>
 <a href="{{ "https://www.google.com/maps/place/" | append: location }}">{{ location }}</a>
-
+</div>
 
 <hr/>
 
@@ -42,6 +32,14 @@ title: resume
 
 <hr/>
 
+<div class="tab black">
+  <button id="text-btn" class="tablinks button active" onclick="openTab('text')">Text Resume</button>
+  <button id="diagram-btn" class="tablinks button" onclick="openTab('diagram')">Graphical Resume</button>
+</div>
+
+
+<div id="text" class="tabcontent" style="display: block;">
+  
 <h2> Experience</h2>
 {% for job in site.data.resume.work %}
 <h3> {{ job.position }}</h3>
@@ -140,8 +138,13 @@ function openTab(name) {
   var i;
   var x = document.getElementsByClassName("tabcontent");
   for (i = 0; i < x.length; i++) {
-    x[i].style.display = "none";  
+    x[i].style.display = "none";
   }
-  document.getElementById(name).style.display = "block";  
+  var x = document.getElementsByClassName("tablinks");
+  for (i = 0; i < x.length; i++) {
+    x[i].classList.remove("active");
+  }
+  document.getElementById(name).style.display = "block";
+  document.getElementById(name+'-btn').classList.add("active");
 }
 </script>

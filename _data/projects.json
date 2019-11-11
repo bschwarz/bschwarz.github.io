@@ -1,13 +1,18 @@
 [
   {
-    "name": "bschwarz.github.io",
-    "description": "My Personal Website, built on Github Pages with Jekyll.",
-    "url": "https://github.com/bschwarz/bschwarz.github.io"
+    "name": "omskep",
+    "description": "Program that converts various formats (i.e. Swagger, resume.json, etc) to markdown for grahical representations, such as plantuml.",
+    "url": "https://bschwarz.github.io/omskep/"
   },
   {
     "name": "Puml Themes",
     "description": "A set of themes for plantuml diagramming tool.",
     "url": "https://bschwarz.github.io/puml-themes/"
+  },
+  {
+    "name": "bschwarz.github.io",
+    "description": "My Personal Website, built on Github Pages with Jekyll.",
+    "url": "https://github.com/bschwarz/bschwarz.github.io"
   },
   {
     "name": "Pgtcl",
