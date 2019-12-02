@@ -39,10 +39,10 @@
       "startDate": "2015-06-01",
       "endDate": "2018-01-01",
       "highlights": [
-        "Established best practices for REST web services across AT&T as a member of the internal standards team.",
-        "Oversaw and improved API design, security, and privacy for externally exposed REST/SOAP APIs as a member of the API governance team.",
+        "Established best practices for REST web services across all of AT&T as a member of the internal standards team.",
+        "Oversaw and improved API design, security, and privacy for externally exposed APIs (at least two per week) as a member of the API governance.",
         "Advanced the adoption of OpenAPI (Swagger) across the company by developing tools and educating internal teams.",
-        "Consulted and mentored internal teams (specifically microservices) on API design to optimize the solution based on project goals and existing network architecture.",
+        "Consulted and mentored internal teams (specifically microservices) on API design to optimize the solution based on project goals and existing network architecture (at least one per week).",
         "Accelerated REST adoption by authoring numerous articles on REST concepts/design and collaborating on a company-wide training program."
       ]
     },
