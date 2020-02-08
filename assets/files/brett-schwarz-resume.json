@@ -208,6 +208,11 @@
   ],
   "skills": [
     {
+      "name": "Certifications",
+      "level": "5",
+      "keywords": ["AWS Certified Solutions Architect - Associate"]
+    },
+    {
       "name": "Integration",
       "level": "5",
       "keywords": ["Mobile Networks", "IT Networks"]
