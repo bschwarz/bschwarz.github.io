@@ -1,0 +1,153 @@
+@startwbs
+
+
+skinparam backgroundColor transparent
+
+
+skinparam  {
+    defaultFontName   "Verdana"
+    defaultFontSize   12
+    defaultTextAlignment center
+    shadowing false
+    RoundCorner 10
+    TitleFontSize 18
+    TitleFontColor #eaeaea
+}
+<style>
+wbsDiagram {
+    LineColor #b5e853
+    BorderThickness 3
+    BackgroundColor #151515
+    FontColor #eaeaea
+    :depth(0) {
+        fontSize 16
+        fontStyle bold
+        fontColor #6a9fb5
+    }
+    :depth(1) {
+        fontSize 14
+        padding 5
+        fontStyle bold
+    }
+    :depth(2) {
+        fontSize 12
+        padding 4
+    }
+    :depth(3) {
+        fontSize 11
+        padding 3
+        fontColor #aa759f
+    }
+
+}
+</style>
+
+title Brett Schwarz\nPrincipal Engineer
+
+* Brett Schwarz\nPrincipal Engineer
+** Education
+*** <b>Electrical Engineering\nBachelor of Science\nUniversity of Toledo
+*** <b>Mathematics\nBachelor of Science\nUniversity of Toledo
+*** <b>Frontend Web Developer\nNanodegree\nUdacity
+*** <b>Sustainability Studies\nundefined\nSBA
+** Work
+*** <b>Principal System Engineer\nAT&T\n2018-01-01 - present
+*** <b>Principal Technical Architect\nAT&T\n2015-06-01 - 2018-01-01
+*** <b>Solutions Architect\nSentaca\n2011-06-01 - 2015-05-01
+*** <b>Senior Test Engineer\nAT&T\n2010-10-01 - 2011-06-01
+*** <b>Senior Engineer\nT-Mobile\n2010-05-01 - 2010-10-01
+*** <b>Technical Sales Engineer\nAlcatel-Lucent\n2008-08-01 - 2009-09-01
+*** <b>Senior Network Systems Engineer\nAlcatel-Lucent\n2005-11-01 - 2008-08-01
+*** <b>Implementation Engineer\nHMS Software\n2005-01-01 - 2005-11-01
+*** <b>Senior Engineer\nATT Wireless\n2003-04-01 - 2004-12-01
+*** <b>Lead Network Engineer\nPacketVideo Corporation\n2000-06-01 - 2002-04-01
+*** <b>Lead Systems Engineer\nMotorola\n1996-10-01 - 2000-06-01
+** Skills
+***> <b>Certifications
+****> AWS Certified Solutions Architect - Associate
+***< <b>Integration
+****> Mobile Networks
+****< IT Networks
+***> <b>Wireless
+****> 2G
+****< 3G
+****> 4G
+****< LTE
+****> GSM
+****< CDMA
+****> UMTS
+****< SMSC
+****> HLR
+****< HSS
+***< <b>Testing
+****> performance
+****< functional
+****> unit
+****< UAT
+***> <b>Software Development
+****> Tcl/Tk
+****< Node.js
+****> C
+****< Python
+****> Java
+****< shell
+****> Git
+****< GitHub
+****> CVS
+****< SVN
+****> Bitbucket
+****< Agile
+****> DevSecOps
+****< Jenkins
+****> Travis CI
+***< <b>Web Services
+****> REST
+****< OpenAPI (Swagger)
+****> OAuth 2.0
+****< JSON Schema
+****> HTTP/1.1
+****< HTTP/2
+****> WebSockets
+****< SOAP
+****> WSDL
+****< XML
+****> GraphQL
+****< RAML
+***> <b>Network Architecture
+****> Mobile Networks
+****< IT Networks
+****> TCP/IP
+****< OSI
+****> AWS IAM
+****< AWS Lambda
+****> AWS EC2
+****< AWS S3
+***< <b>Computers
+****> Linux/Unix
+****< Windows
+****> Mac
+****< MS Office
+***> <b>Web Development
+****> HTML5
+****< CSS
+****> JavaScript
+****< jQuery
+****> Gulp
+****< Grunt
+****> Knockout.js
+****< AngularJS
+****> Bootstrap
+****< Foundation
+****> Apache
+****< Naviserver
+****> Tomcat
+***< <b>Datastores
+****> PostgreSQL
+****< SQLite
+****> MySQL
+****< Oracle
+****> MongoDB
+****< DynamoDB
+****> Redis
+****< Memcached
+@endwbs
