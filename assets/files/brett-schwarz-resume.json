@@ -241,7 +241,15 @@
     {
       "name": "Software Development",
       "level": "4",
-      "keywords": ["Tcl/Tk", "Node.js/Express", "C", "Python", "Java", "shell"]
+      "keywords": [
+        "Tcl/Tk",
+        "Node.js/Express",
+        "C",
+        "Python",
+        "Java",
+        "shell",
+        "Agile"
+      ]
     },
     {
       "name": "DevSecOps",
@@ -249,10 +257,9 @@
       "keywords": [
         "Git",
         "GitHub",
+        "Bitbucket",
         "CVS",
         "SVN",
-        "Bitbucket",
-        "Agile",
         "Jenkins",
         "Travis CI",
         "SonarQube",
