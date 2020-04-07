@@ -241,22 +241,23 @@
     {
       "name": "Software Development",
       "level": "4",
+      "keywords": ["Tcl/Tk", "Node.js/Express", "C", "Python", "Java", "shell"]
+    },
+    {
+      "name": "DevSecOps",
+      "level": "4",
       "keywords": [
-        "Tcl/Tk",
-        "Node.js",
-        "C",
-        "Python",
-        "Java",
-        "shell",
         "Git",
         "GitHub",
         "CVS",
         "SVN",
         "Bitbucket",
         "Agile",
-        "DevSecOps",
         "Jenkins",
-        "Travis CI"
+        "Travis CI",
+        "SonarQube",
+        "Kubernetes",
+        "Docker"
       ]
     },
     {
@@ -301,7 +302,7 @@
       "level": "4",
       "keywords": [
         "HTML5",
-        "CSS",
+        "CSS3",
         "JavaScript",
         "jQuery",
         "Gulp",
