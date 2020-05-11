@@ -40,10 +40,10 @@
       "endDate": "2018-01-01",
       "highlights": [
         "Established best practices for REST web services across all of AT&T as a member of the internal standards team.",
-        "Oversaw and improved API design, security, and privacy for externally exposed APIs (at least two per week) as a member of the API governance.",
-        "Advanced the adoption of OpenAPI (Swagger) across the company by developing tools and educating internal teams.",
-        "Consulted and mentored internal teams (specifically microservices) on API design to optimize the solution based on project goals and existing network architecture (at least one per week).",
-        "Accelerated REST adoption by authoring numerous articles on REST concepts/design and collaborating on a company-wide training program."
+        "Oversaw and improved API design, security, and privacy for externally exposed APIs (over a hundred different APIs) as a member of the API governance.",
+        "Advanced the adoption of OpenAPI (Swagger) across the company by developing tools and educating internal teams on the benefits of using OpenAPI.",
+        "Consulted and mentored internal teams weekly on API design to optimize the solution based on project goals and existing network architecture.",
+        "Accelerated REST adoption by authoring numerous internal articles on REST concepts/design and collaborating on a company-wide training program."
       ]
     },
     {
@@ -53,11 +53,10 @@
       "startDate": "2011-06-01",
       "endDate": "2015-05-01",
       "highlights": [
-        "Ensured optimal solution by collaborating with customers and internal teams on technical and business requirements.",
-        "Collaborated on the architecture of end to end solutions for the service exposure layer of enterprise and consumer services.",
+        "Achieved high customer satisfaction by ensuring optimal API solutions by collaborating with customers and internal architecture teams.",
         "Promoted API solutions at conferences and hack-a-thons by educating and demonstrating to customers the solution’s capabilities.",
-        "Deployed and tested API solutions with high availability, scalability, and low latency design criteria into the Amazon AWS EC2 and AT&T AIC cloud.",
-        "Designed a new documentation system improving workflow and quality"
+        "Deployed and tested API solutions requiring high availability, scalability, and low latency into the AT&T cloud and Amazon AWS.",
+        "Implemented a new API documentation system which reduced delivery time by 30%."
       ]
     },
     {
@@ -69,7 +68,7 @@
       "highlights": [
         "Headed the performance testing efforts for the messaging platform, including authoring test cases, test case execution, and managing defects.",
         "Mentored team members on mobile and IT networks, by holding periodic workshops and consulting on projects.",
-        "Developed software tools for automation and troubleshooting."
+        "Developed software tools for automation and troubleshooting of APIs."
       ]
     },
     {
@@ -79,9 +78,8 @@
       "startDate": "2010-05-01",
       "endDate": "2010-10-01",
       "highlights": [
-        "Designed and engineered subscriber-based mobile network elements.",
-        "Authored requirements, MOPs, and process documentation.",
-        "Successfully lead the engineering team on a complex subscriber and partner migration to a new platform.",
+        "Designed, engineered and supervised subscriber-based mobile network elements.",
+        "Successfully lead the engineering team on a complex (total replacement) subscriber migration across entire network",
         "Developed tools to streamline the implementation and troubleshooting."
       ]
     },
@@ -92,8 +90,8 @@
       "startDate": "2008-08-01",
       "endDate": "2009-09-01",
       "highlights": [
-        "Supported sales team with technical expertise for product presentations and consultations to the customer up to the VP level.",
-        "Achieved highest-ranked sales engineer status by assisting the sales team to secure a major strategic win."
+        "Achieved highest-ranked sales engineer status by assisting the sales team to secure a major strategic win.",
+        "Supported the sales team with technical expertise for product presentations and consultations to the customer up to the VP level."
       ]
     },
     {
