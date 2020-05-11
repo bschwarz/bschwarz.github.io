@@ -211,47 +211,20 @@
       "keywords": ["AWS Certified Solutions Architect - Associate"]
     },
     {
-      "name": "Integration",
-      "level": "5",
-      "keywords": ["Mobile Networks", "IT Networks"]
-    },
-    {
-      "name": "Wireless",
-      "level": "5",
-      "keywords": [
-        "2G",
-        "3G",
-        "4G",
-        "LTE",
-        "GSM",
-        "CDMA",
-        "UMTS",
-        "SMSC",
-        "HLR",
-        "HSS"
-      ]
-    },
-    {
-      "name": "Testing",
-      "level": "3",
-      "keywords": ["performance", "functional", "unit", "UAT"]
-    },
-    {
-      "name": "Software Development",
+      "name": "Software Languages",
       "level": "4",
       "keywords": [
         "Tcl/Tk",
-        "Node.js/Express",
+        "JavaScript",
+        "Node.js (Express)",
         "C",
         "Python",
         "Java",
-        "shell",
-        "Agile",
-	"Alexa"
+        "shell"
       ]
     },
     {
-      "name": "DevSecOps",
+      "name": "Software Development",
       "level": "4",
       "keywords": [
         "Git",
@@ -263,7 +236,9 @@
         "Travis CI",
         "SonarQube",
         "Kubernetes",
-        "Docker"
+        "Docker",
+        "Agile",
+        "Alexa"
       ]
     },
     {
@@ -288,20 +263,13 @@
       "name": "Network Architecture",
       "level": "5",
       "keywords": [
-        "Mobile Networks",
+        "Mobile Networks (3G, UMTS, LTE)",
         "IT Networks",
         "TCP/IP",
         "OSI",
-        "AWS IAM",
-        "AWS Lambda",
-        "AWS EC2",
-        "AWS S3"
+        "AWS",
+        "Azure"
       ]
-    },
-    {
-      "name": "Computers",
-      "level": "4",
-      "keywords": ["Linux/Unix", "Windows", "Mac", "MS Office"]
     },
     {
       "name": "Web Development",
@@ -314,6 +282,7 @@
         "Gulp",
         "Grunt",
         "Knockout.js",
+        "Svelte",
         "AngularJS",
         "Bootstrap",
         "Foundation",
