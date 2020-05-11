@@ -1,6 +1,5 @@
 @startwbs
 
-
 skinparam backgroundColor transparent
 
 
@@ -42,6 +41,8 @@ wbsDiagram {
 }
 </style>
 
+
+
 title Brett Schwarz\nPrincipal Engineer
 
 * Brett Schwarz\nPrincipal Engineer
@@ -65,41 +66,27 @@ title Brett Schwarz\nPrincipal Engineer
 ** Skills
 ***> <b>Certifications
 ****> AWS Certified Solutions Architect - Associate
-***< <b>Integration
-****> Mobile Networks
-****< IT Networks
-***> <b>Wireless
-****> 2G
-****< 3G
-****> 4G
-****< LTE
-****> GSM
-****< CDMA
-****> UMTS
-****< SMSC
-****> HLR
-****< HSS
-***< <b>Testing
-****> performance
-****< functional
-****> unit
-****< UAT
-***> <b>Software Development
+***< <b>Software Languages
 ****> Tcl/Tk
-****< Node.js
-****> C
-****< Python
-****> Java
-****< shell
+****< JavaScript
+****> Node.js (Express)
+****< C
+****> Python
+****< Java
+****> shell
+***> <b>Software Development
 ****> Git
 ****< GitHub
-****> CVS
-****< SVN
 ****> Bitbucket
-****< Agile
-****> DevSecOps
+****< CVS
+****> SVN
 ****< Jenkins
 ****> Travis CI
+****< SonarQube
+****> Kubernetes
+****< Docker
+****> Agile
+****< Alexa
 ***< <b>Web Services
 ****> REST
 ****< OpenAPI (Swagger)
@@ -114,34 +101,28 @@ title Brett Schwarz\nPrincipal Engineer
 ****> GraphQL
 ****< RAML
 ***> <b>Network Architecture
-****> Mobile Networks
+****> Mobile Networks (3G, UMTS, LTE)
 ****< IT Networks
 ****> TCP/IP
 ****< OSI
-****> AWS IAM
-****< AWS Lambda
-****> AWS EC2
-****< AWS S3
-***< <b>Computers
-****> Linux/Unix
-****< Windows
-****> Mac
-****< MS Office
-***> <b>Web Development
+****> AWS
+****< Azure
+***< <b>Web Development
 ****> HTML5
-****< CSS
+****< CSS3
 ****> JavaScript
 ****< jQuery
 ****> Gulp
 ****< Grunt
 ****> Knockout.js
-****< AngularJS
-****> Bootstrap
-****< Foundation
-****> Apache
-****< Naviserver
-****> Tomcat
-***< <b>Datastores
+****< Svelte
+****> AngularJS
+****< Bootstrap
+****> Foundation
+****< Apache
+****> Naviserver
+****< Tomcat
+***> <b>Datastores
 ****> PostgreSQL
 ****< SQLite
 ****> MySQL
