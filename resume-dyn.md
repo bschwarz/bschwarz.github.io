@@ -39,7 +39,14 @@ title: resume
 
 
 <div id="text" class="tabcontent" style="display: block;">
-  
+
+<a href="#skills">Skills</a>
+<a href="#education">Education</a>
+<a href="#publications">Publications</a>
+<a href="#languages">Languages</a>
+<a href="#references">References</a>
+
+
 <h2> Experience</h2>
 {% for job in site.data.resume.work %}
 <h3> {{ job.position }}</h3>
@@ -55,6 +62,8 @@ title: resume
 
 
 <hr/>
+<h2 id="skills"> Skills</h2>
+
 {% for skill in site.data.resume.skills %}
 
 <h3>{{ skill.name }}</h3>
@@ -66,6 +75,8 @@ title: resume
 {% endfor %}
 
 <hr/>
+<h2 id="education"> Education</h2>
+
 {% for ed in site.data.resume.education %}
 
 <h3> {{ ed.area }}</h3>
@@ -76,7 +87,8 @@ title: resume
 {% endfor %}
 
 <hr/>
-<h2> Publications</h2>
+
+<h2 id="publications"> Publications</h2>
 
 {% for pub in site.data.resume.publications %}
 
@@ -89,7 +101,7 @@ title: resume
 
 
 <hr/>
-<h2> Languages</h2>
+<h2 id="languages"> Languages</h2>
 <table>
 {% for lang in site.data.resume.languages %}
 <tr>
@@ -120,7 +132,7 @@ title: resume
 </table>
 
 <hr/>
-<h2> References</h2>
+<h2 id="references"> References</h2>
 
 {% for ref in site.data.resume.references %}
 <b>{{ ref.name }}</b>
