@@ -54,6 +54,7 @@
       "endDate": "2015-05-01",
       "highlights": [
         "Achieved high customer satisfaction by ensuring optimal API solutions by collaborating with customers and internal architecture teams.",
+        "Lead and mentored a team of 8-10 engineers for the developer program.",
         "Promoted API solutions at conferences and hack-a-thons by educating and demonstrating to customers the solution’s capabilities.",
         "Deployed and tested API solutions requiring high availability, scalability, and low latency into cloud services (AT&T cloud and Amazon AWS).",
         "Implemented a new API documentation system which reduced delivery time by 30%."
@@ -308,7 +309,7 @@
         "Gulp",
         "Grunt",
         "Knockout.js",
-        "AngularJS",
+        "Angular",
         "Bootstrap",
         "Foundation",
         "Apache",
