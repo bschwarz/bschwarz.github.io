@@ -258,6 +258,8 @@
         "Travis CI",
         "SonarQube",
         "Kubernetes",
+        "Terraform",
+        "Packer",
         "Docker"
       ]
     },
