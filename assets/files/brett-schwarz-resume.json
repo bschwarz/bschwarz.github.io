@@ -28,6 +28,7 @@
       "position": "Principal System Engineer",
       "startDate": "2018-01-01",
       "highlights": [
+        "Assisted in the development and the architecture of the core components of the Common Machine Language Platform, including migration to Azure.",
         "Envisioned, evangelized, architected, developed, and productized an internal web application that reduces costs and speeds up delivery by at least 50%. Consisted of multiple microservices deployed to an internal cloud service (based on Kubernetes).",
         "Maintained responsibilities held under the Principal Technical Architect title."
       ]
@@ -56,7 +57,6 @@
         "Achieved high customer satisfaction by ensuring optimal API solutions by collaborating with customers and internal architecture teams.",
         "Lead and mentored a team of 8-10 engineers for the developer program.",
         "Promoted API solutions at conferences and hack-a-thons by educating and demonstrating to customers the solution’s capabilities.",
-        "Deployed and tested API solutions requiring high availability, scalability, and low latency into cloud services (AT&T cloud and Amazon AWS).",
         "Implemented a new API documentation system which reduced delivery time by 30%."
       ]
     },
@@ -203,7 +203,7 @@
     {
       "name": "Certifications",
       "level": "5",
-      "keywords": ["AWS Certified Solutions Architect - Associate"]
+      "keywords": ["AWS Certified Solutions Architect - Associate", "Microsoft Certified: Azure Fundamentals"]
     },
     {
       "name": "Integration",
