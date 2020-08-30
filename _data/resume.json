@@ -28,7 +28,8 @@
       "position": "Principal System Engineer",
       "startDate": "2018-01-01",
       "highlights": [
-        "Assisted in the development and the architecture of the core components of the Common Machine Language Platform, including migration to Azure.",
+        "Assisted in the development and the architecture of the machine language platform for model management and deployments.",
+        "Migrated the machine language platform to Azure (AKS, DevOps, Blob Storage, Key Vault) decreasing costs and allowing more scalability.",
         "Envisioned, evangelized, architected, developed, and productized an internal web application that reduces costs and speeds up delivery by at least 50%. Consisted of multiple microservices deployed to an internal cloud service (based on Kubernetes).",
         "Maintained responsibilities held under the Principal Technical Architect title."
       ]
@@ -181,6 +182,13 @@
       "studyType": "Nanodegree",
       "startDate": "2017-01-01",
       "endDate": "2018-01-01"
+    },
+    {
+      "institution": "Udacity",
+      "area": "Machine Learning Engineer",
+      "studyType": "Nanodegree",
+      "startDate": "2020-08-15",
+      "endDate": "2020-12-15"
     }
   ],
   "publications": [
@@ -330,7 +338,8 @@
         "MongoDB",
         "DynamoDB",
         "Redis",
-        "Memcached"
+        "Memcached",
+        "Cosmos DB"
       ]
     }
   ],
@@ -349,6 +358,10 @@
     },
     {
       "language": "Mandarin",
+      "fluency": "Elementary"
+    },
+    {
+      "language": "Japanese",
       "fluency": "Elementary"
     }
   ],

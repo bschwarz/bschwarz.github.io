@@ -50,7 +50,7 @@ title Brett Schwarz\nPrincipal Engineer
 *** <b>Electrical Engineering\nBachelor of Science\nUniversity of Toledo
 *** <b>Mathematics\nBachelor of Science\nUniversity of Toledo
 *** <b>Frontend Web Developer\nNanodegree\nUdacity
-*** <b>Sustainability Studies\nundefined\nSBA
+*** <b>Machine Learning Engineer\nNanodegree\nUdacity(currently enrolled)
 ** Work
 *** <b>Principal System Engineer\nAT&T\n2018-01-01 - present
 *** <b>Principal Technical Architect\nAT&T\n2015-06-01 - 2018-01-01
@@ -134,4 +134,5 @@ title Brett Schwarz\nPrincipal Engineer
 ****< DynamoDB
 ****> Redis
 ****< Memcached
+****> Cosmos DB
 @endwbs
