@@ -28,9 +28,9 @@
       "position": "Principal System Engineer",
       "startDate": "2018-01-01",
       "highlights": [
-        "Assisted in the development and the architecture of the machine language platform for model management and deployments.",
-        "Migrated the machine language platform to Azure (AKS, DevOps, Blob Storage, Key Vault) decreasing costs and allowing more scalability.",
-        "Envisioned, evangelized, architected, developed, and productized an internal web application that reduces costs and speeds up delivery by at least 50%. Consisted of multiple microservices deployed to an internal cloud service (based on Kubernetes).",
+        "Assisted in the development and the architecture of the machine language platform used to assist in data management, model management and model deployments.",
+        "Migrated the machine language platform to Azure (AKS, DevOps, Storage, Key Vault, Cosmos DB) to decrease costs and improve scalability.",
+        "Envisioned, evangelized, architected, developed, and productized an internal web application for REST API design that reduced costs and sped up delivery by at least 50%. Consists of multiple microservices deployed to a Kubernetes environment.",
         "Maintained responsibilities held under the Principal Technical Architect title."
       ]
     },
