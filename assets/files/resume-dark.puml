@@ -75,7 +75,7 @@ title Brett Schwarz\nPrincipal Engineer
 ****> Python
 ****< Java
 ****> shell
-***> <b>Software Development
+***> <b>Software Technologies
 ****> Git
 ****< GitHub
 ****> Bitbucket
@@ -89,7 +89,7 @@ title Brett Schwarz\nPrincipal Engineer
 ****> Agile
 ****< Terraform
 ****> Packer
-****< Alexa
+****< Alexa SDK
 ***< <b>Web Services
 ****> REST
 ****< OpenAPI (Swagger)
@@ -125,6 +125,8 @@ title Brett Schwarz\nPrincipal Engineer
 ****< Apache
 ****> Naviserver
 ****< Tomcat
+****> Flask
+****< Express
 ***> <b>Datastores
 ****> PostgreSQL
 ****< SQLite

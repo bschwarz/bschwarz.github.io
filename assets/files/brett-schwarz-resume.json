@@ -28,8 +28,8 @@
       "position": "Principal System Engineer",
       "startDate": "2018-01-01",
       "highlights": [
-        "Assisted in the development and the architecture of the machine language platform used to assist in data management, model management and model deployments.",
-        "Migrated the machine language platform to Azure (AKS, DevOps, Storage, Key Vault, Cosmos DB) to decrease costs and improve scalability.",
+        "Assisted in the development and the architecture of the machine language platform used for data and model management, and model deployments.",
+        "Migrated the machine language platform to Azure (AKS, DevOps, Storage, Key Vault, Cosmos DB) to take advantage of cloud services.",
         "Envisioned, evangelized, architected, developed, and productized an internal web application for REST API design that reduced costs and sped up delivery by at least 50%. Consists of multiple microservices deployed to a Kubernetes environment.",
         "Maintained responsibilities held under the Principal Technical Architect title."
       ]
@@ -145,7 +145,7 @@
         "Lead the first complete integration effort of the product line into the customer’s network (JSP and servlets on Apache/Tomcat).",
         "Significantly reduced cycle time and improved quality by developing a customized RedHat Linux Kickstart installation for field installations and sales demos.",
         "Improved internal communication by developing a web application for installation activities, knowledge base, and configuration generation.",
-        "Provided pre and post-sales support, including presentations for the customers globally."
+        "Provided pre-sales and post-sales support, including presentations for the customers globally."
       ]
     },
     {
@@ -240,17 +240,28 @@
       "keywords": ["performance", "functional", "unit", "UAT"]
     },
     {
-      "name": "Software Development",
+      "name": "Software Languages",
       "level": "4",
       "keywords": [
         "Tcl/Tk",
-        "Node.js/Express",
-        "C",
+        "JavaScript",
+        "Node.js",
         "Python",
+        "C",
         "Java",
-        "shell",
+        "shell"
+      ]
+    },
+    {
+      "name": "Software Technologies",
+      "level": "4",
+      "keywords": [
+        "Kubernetes",
+        "Docker",
+        "Terraform",
+        "Packer",
         "Agile",
-        "Alexa"
+        "Alexa SDK"
       ]
     },
     {
@@ -264,11 +275,7 @@
         "SVN",
         "Jenkins",
         "Travis CI",
-        "SonarQube",
-        "Kubernetes",
-        "Terraform",
-        "Packer",
-        "Docker"
+        "SonarQube"
       ]
     },
     {
@@ -293,14 +300,12 @@
       "name": "Network Architecture",
       "level": "5",
       "keywords": [
+        "Azure",
+        "AWS",
         "Mobile Networks",
         "IT Networks",
         "TCP/IP",
-        "OSI",
-        "AWS IAM",
-        "AWS Lambda",
-        "AWS EC2",
-        "AWS S3"
+        "OSI"
       ]
     },
     {
@@ -316,12 +321,15 @@
         "CSS3",
         "JavaScript",
         "jQuery",
-        "Gulp",
-        "Grunt",
         "Knockout.js",
         "Angular",
+        "Svelte",
+        "Gulp",
+        "Grunt",
         "Bootstrap",
         "Foundation",
+        "Express",
+        "Flask",
         "Apache",
         "Naviserver",
         "Tomcat"
