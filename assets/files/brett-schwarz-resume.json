@@ -2,7 +2,7 @@
   "basics": {
     "name": "Brett Schwarz",
     "label": "Principal Engineer",
-    "summary": "Principal engineer with in-depth understanding of mobile and IT network architectures. Possess significant experience with product, service, and software life cycles, and customer engagement. Effective at adapting to different environments, concepts and technologies.",
+    "summary": "Principal engineer and software developer with in-depth experience and understanding of IT and mobile network architectures. Possess significant experience with product, service, and software life cycles, and customer engagement. Effective at adapting to different environments, concepts and technologies.",
     "email": "brett.schwarz@gmail.com",
     "phone": "+1-425-466-1731",
     "website": "bschwarz.github.io",
@@ -28,7 +28,7 @@
       "position": "Principal System Engineer",
       "startDate": "2018-01-01",
       "highlights": [
-        "Assisted in the development and the architecture of the machine language platform, consisting of multiple microservices and a web application.",
+        "Assisted in the development and the architecture of the machine language platform, consisting of multiple microservices, datastores, and a web application.",
         "Migrated the machine language platform to Azure (AKS, DevOps, Storage, Key Vault, Cosmos DB) to take advantage of cloud services.",
         "Envisioned, evangelized, architected, developed, and productized an internal web application for REST API design that reduced costs and sped up delivery by at least 50%. Consists of multiple microservices deployed to a Kubernetes environment.",
         "Maintained responsibilities held under the Principal Technical Architect title."
@@ -45,7 +45,7 @@
         "Oversaw and improved API design, security, and privacy for externally exposed APIs (over a hundred unique APIs) as a member of the API governance.",
         "Advanced the adoption of OpenAPI (Swagger) across the company by developing tools and educating internal teams on the benefits of using OpenAPI.",
         "Consulted and mentored internal teams weekly on API design to optimize the solution based on project goals and existing network architecture.",
-        "Accelerated REST adoption by authoring internal best practice articles on REST concepts/design and collaborating on a company-wide REST training program."
+        "Accelerated REST adoption by authoring internal best practice articles on REST concepts/design and leading a company-wide REST training program."
       ]
     },
     {
