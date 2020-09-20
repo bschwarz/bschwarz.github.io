@@ -249,7 +249,7 @@ nav.top-rightX {
   border: none;
   outline: none;
   cursor: pointer;
-  padding: 20px 16px;
+  padding: 18px 25px;
   transition: 0.3s;
 }
 
@@ -274,5 +274,6 @@ nav.top-rightX {
 }
 
 h2 {
+  text-decoration: underline overline dotted;
   text-align: center;
 }
