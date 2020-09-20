@@ -41,15 +41,15 @@ title: resume
 <div id="text" class="tabcontent" style="display: block;">
 
 <div class="section-links">
-<div>
+<span>
   <i class="fas fa-tools igreen" aria-hidden="true"></i>
   <a href="#skills">Skills</a>
-</div>
-<div>
-<i class="fas fa-briefcase igreen" aria-hidden="true"></i>
-</div>
-<a href="#education" style="margin-right: 4px;">Education</a>
-<i class="fas fa-diploma igreen" aria-hidden="true"></i>
+</span>
+<span>
+  <i class="fas fa-diploma igreen" aria-hidden="true"></i>
+  <a href="#education" style="margin-right: 4px;">Education</a>
+</span>
+<i class="fas fa-book igreen" aria-hidden="true"></i>
 <a href="#publications" style="margin-right: 4px;">Publications</a>
 <i class="fas fa-language igreen" aria-hidden="true"></i>
 <a href="#languages" style="margin-right: 4px;">Languages</a>
