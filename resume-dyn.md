@@ -41,20 +41,26 @@ title: resume
 <div id="text" class="tabcontent" style="display: block;">
 
 <div class="section-links">
-<span>
-  <i class="fas fa-tools igreen" aria-hidden="true"></i>
-  <a href="#skills">Skills</a>
-</span>
-<span>
-  <i class="fas fa-graduation-cap igreen" aria-hidden="true"></i>
-  <a href="#education" style="margin-right: 4px;">Education</a>
-</span>
-<i class="fas fa-book igreen" aria-hidden="true"></i>
-<a href="#publications" style="margin-right: 4px;">Publications</a>
-<i class="fas fa-language igreen" aria-hidden="true"></i>
-<a href="#languages" style="margin-right: 4px;">Languages</a>
-<i class="fas fa-star igreen" aria-hidden="true"></i>
-<a href="#references" style="margin-right: 4px;">References</a>
+  <span>
+    <i class="fas fa-tools igreen" aria-hidden="true"></i>
+    <a href="#skills">Skills</a>
+  </span>
+  <span>
+    <i class="fas fa-graduation-cap igreen" aria-hidden="true"></i>
+    <a href="#education" style="margin-right: 4px;">Education</a>
+  </span>
+  <span>
+    <i class="fas fa-book igreen" aria-hidden="true"></i>
+    <a href="#publications" style="margin-right: 4px;">Publications</a>
+  </span>
+  <span>
+    <i class="fas fa-language igreen" aria-hidden="true"></i>
+    <a href="#languages" style="margin-right: 4px;">Languages</a>
+  </span>
+  <span>
+    <i class="fas fa-star igreen" aria-hidden="true"></i>
+    <a href="#references" style="margin-right: 4px;">References</a>
+  </span>
 </div>
 
 
