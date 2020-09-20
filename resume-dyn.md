@@ -33,14 +33,23 @@ title: resume
 <hr/>
 
 <div class="tab black">
-  <button id="text-btn" class="tablinks button active" onclick="openTab('text')">Text Resume</button>
+  <button id="text-btn" class="tablinks button active" onclick="openTab('experience')">Experience</button>
+  <button id="diagram-btn" class="tablinks button" onclick="openTab('skills')">Skills</button>
+  <button id="diagram-btn" class="tablinks button" onclick="openTab('education')">Education</button>
+  <button id="diagram-btn" class="tablinks button" onclick="openTab('publications')">Publications</button>
+  <button id="diagram-btn" class="tablinks button" onclick="openTab('languages')">Languages</button>
+  <button id="diagram-btn" class="tablinks button" onclick="openTab('references')">References</button>
   <button id="diagram-btn" class="tablinks button" onclick="openTab('diagram')">Graphical Resume</button>
 </div>
+<!-- <div class="tab black">
+  <button id="text-btn" class="tablinks button active" onclick="openTab('text')">Text Resume</button>
+  <button id="diagram-btn" class="tablinks button" onclick="openTab('diagram')">Graphical Resume</button>
+</div> -->
 
 
-<div id="text" class="tabcontent" style="display: block;">
+<!-- <div id="text" class="tabcontent" style="display: block;"> -->
 
-<div class="section-links">
+<!-- <div class="section-links">
   <span>
     <i class="fas fa-tools igreen" aria-hidden="true"></i>
     <a href="#skills">Skills</a>
@@ -61,9 +70,10 @@ title: resume
     <i class="fas fa-star igreen" aria-hidden="true"></i>
     <a href="#references" style="margin-right: 4px;">References</a>
   </span>
-</div>
+</div> -->
 
 
+<div id="experience" class="tabcontent" style="display: block;">
 <h2> Experience</h2>
 {% for job in site.data.resume.work %}
 <h3> {{ job.position }}</h3>
@@ -79,7 +89,9 @@ title: resume
 
 
 <hr/>
-<h2 id="skills"> Skills</h2>
+</div>
+<div id="skills" class="tabcontent" style="display: block;">
+<h2 id="skillsX"> Skills</h2>
 
 {% for skill in site.data.resume.skills %}
 
@@ -92,7 +104,9 @@ title: resume
 {% endfor %}
 
 <hr/>
-<h2 id="education"> Education</h2>
+</div>
+<div id="education" class="tabcontent" style="display: block;">
+<h2 id="educationX"> Education</h2>
 
 {% for ed in site.data.resume.education %}
 
@@ -104,8 +118,9 @@ title: resume
 {% endfor %}
 
 <hr/>
-
-<h2 id="publications"> Publications</h2>
+</div>
+<div id="publications" class="tabcontent" style="display: block;">
+<h2 id="publicationsX"> Publications</h2>
 
 {% for pub in site.data.resume.publications %}
 
@@ -118,7 +133,9 @@ title: resume
 
 
 <hr/>
-<h2 id="languages"> Languages</h2>
+</div>
+<div id="languages" class="tabcontent" style="display: block;">
+<h2 id="languagesX"> Languages</h2>
 <table>
 {% for lang in site.data.resume.languages %}
 <tr>
@@ -149,7 +166,9 @@ title: resume
 </table>
 
 <hr/>
-<h2 id="references"> References</h2>
+</div>
+<div id="references" class="tabcontent" style="display: block;">
+<h2 id="referencesX"> References</h2>
 
 {% for ref in site.data.resume.references %}
 <b>{{ ref.name }}</b>
