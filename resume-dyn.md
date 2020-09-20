@@ -34,7 +34,7 @@ title: resume
 
 <div class="tab black">
   <button id="text-btn" class="tablinks button active" onclick="openTab('experience')">Experience</button>
-  <button id="diagram-btn" class="tablinks button" onclick="openTab('skills')">Skills</button>
+  <button id="diagram-btn" class="tablinks button" onclick="openTab('skills')"><i class="fas fa-tools igreen" aria-hidden="true"></i>Skills</button>
   <button id="diagram-btn" class="tablinks button" onclick="openTab('education')">Education</button>
   <button id="diagram-btn" class="tablinks button" onclick="openTab('publications')">Publications</button>
   <button id="diagram-btn" class="tablinks button" onclick="openTab('languages')">Languages</button>
