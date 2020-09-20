@@ -46,7 +46,7 @@ title: resume
   <a href="#skills">Skills</a>
 </span>
 <span>
-  <i class="fas fa-diploma igreen" aria-hidden="true"></i>
+  <i class="fas fa-graduation-cap igreen" aria-hidden="true"></i>
   <a href="#education" style="margin-right: 4px;">Education</a>
 </span>
 <i class="fas fa-book igreen" aria-hidden="true"></i>
