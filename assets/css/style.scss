@@ -240,6 +240,9 @@ nav.top-rightX {
   color: #eaeaea;
   font-size: 1.1rem;
   width: 14%;
+  vertical-align: top;
+  display: inline-block;
+  text-align: center;
 }
 
 /* Style the buttons that are used to open the tab content */
@@ -275,5 +278,5 @@ nav.top-rightX {
 
 h2 {
   text-decoration: underline overline dotted;
-  text-align: center;
+  // text-align: center;
 }
