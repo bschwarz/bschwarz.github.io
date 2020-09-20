@@ -40,10 +40,15 @@ title: resume
 
 <div id="text" class="tabcontent" style="display: block;">
 
+<i class="fas fa-tools igreen" aria-hidden="true"></i>
 <a href="#skills">Skills</a>
+<i class="fas fa-briefcase igreen" aria-hidden="true"></i>
 <a href="#education">Education</a>
+<i class="fas fa-diploma igreen" aria-hidden="true"></i>
 <a href="#publications">Publications</a>
+<i class="fas fa-language igreen" aria-hidden="true"></i>
 <a href="#languages">Languages</a>
+<i class="fas fa-star igreen" aria-hidden="true"></i>
 <a href="#references">References</a>
 
 
