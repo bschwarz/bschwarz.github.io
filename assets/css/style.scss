@@ -17,6 +17,17 @@ html {
   // width: 100%;
 }
 
+.section-links {
+  width: 100%;
+  overflow: auto;
+}
+
+.section-links span {
+  width: 20%;
+  margin-right: 15px;
+  float: left;
+}
+
 // make font awesome icons
 .igreen {
   font-size: 20px;
@@ -217,6 +228,7 @@ nav.top-rightX {
 
 /* Style the tab */
 .tab {
+  width: 100%;
   overflow: hidden;
   color: #eaeaea;
   // border: 1px solid #111111;
@@ -226,6 +238,7 @@ nav.top-rightX {
 .tablinks {
   color: #eaeaea;
   font-size: 1.1rem;
+  width: 50%;
 }
 
 /* Style the buttons that are used to open the tab content */
