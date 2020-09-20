@@ -15,7 +15,7 @@ title: resume
 {% endfor %}
 
 <i class="fas fa-envelope igreen" aria-hidden="true"></i>
-<a href="{{ site.data.resume.basics.email }}">{{ site.data.resume.basics.email }}</a>
+<a href="mailto:{{ site.data.resume.basics.email }}">{{ site.data.resume.basics.email }}</a>
 
 
 {% capture location %}{{ site.data.resume.basics.location.city }},{{ site.data.resume.basics.location.region }},{{ site.data.resume.basics.location.postalCode }} {{ site.data.resume.basics.location.countryCode }}
