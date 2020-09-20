@@ -33,13 +33,13 @@ title: resume
 <hr/>
 
 <div class="tab black">
-  <button id="experience-btn" class="tablinks button active" onclick="openTab('experience')"><i class="fas fa-briefcase igreen" aria-hidden="true"></i>Experience</button>
-  <button id="skills-btn" class="tablinks button" onclick="openTab('skills')"><i class="fas fa-tools igreen" aria-hidden="true"></i>&nbsp;Skills&nbsp;</button>
-  <button id="education-btn" class="tablinks button" onclick="openTab('education')"><i class="fas fa-graduation-cap igreen" aria-hidden="true"></i>Education</button>
-  <button id="publications-btn" class="tablinks button" onclick="openTab('publications')"><i class="fas fa-book igreen" aria-hidden="true"></i>Publications</button>
-  <button id="languages-btn" class="tablinks button" onclick="openTab('languages')"><i class="fas fa-language igreen" aria-hidden="true"></i>Languages</button>
-  <button id="references-btn" class="tablinks button" onclick="openTab('references')"><i class="fas fa-star igreen" aria-hidden="true"></i>References</button>
-  <button id="diagram-btn" class="tablinks button" onclick="openTab('diagram')"><i class="fas fa-project-diagram igreen" aria-hidden="true"></i>Graphical</button>
+  <button id="experience-btn" class="tablinks button active" onclick="openTab('experience')"><i class="fas fa-briefcase igreen tab-icon" aria-hidden="true"></i>Experience</button>
+  <button id="skills-btn" class="tablinks button" onclick="openTab('skills')"><i class="fas fa-tools igreen tab-icon" aria-hidden="true"></i>&nbsp;Skills&nbsp;</button>
+  <button id="education-btn" class="tablinks button" onclick="openTab('education')"><i class="fas fa-graduation-cap igreen tab-icon" aria-hidden="true"></i>Education</button>
+  <button id="publications-btn" class="tablinks button" onclick="openTab('publications')"><i class="fas fa-book igreen tab-icon" aria-hidden="true"></i>Publications</button>
+  <button id="languages-btn" class="tablinks button" onclick="openTab('languages')"><i class="fas fa-language igreen tab-icon" aria-hidden="true"></i>Languages</button>
+  <button id="references-btn" class="tablinks button" onclick="openTab('references')"><i class="fas fa-star igreen tab-icon" aria-hidden="true"></i>References</button>
+  <button id="diagram-btn" class="tablinks button" onclick="openTab('diagram')"><i class="fas fa-project-diagram igreen tab-icon" aria-hidden="true"></i>Graphical</button>
 </div>
 <!-- <div class="tab black">
   <button id="text-btn" class="tablinks button active" onclick="openTab('text')">Text Resume</button>
