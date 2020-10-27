@@ -8,7 +8,6 @@ I like solving problems, big and small. More importantly, I like finding the mos
 
 
 ## a brief history...
-* grew up in bowling green, ohio, usa
 * graduated with a bachelors degree in mathematics and electrical engineering
 * moved to the chicago area for my first job with motorola as a system engineer in wireless industry
 * taught myself c programming in order to write tools
