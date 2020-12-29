@@ -30,7 +30,7 @@
       "highlights": [
         "Assisted in the development and the architecture of the machine language platform, consisting of multiple microservices with REST APIs, datastores, and a web application.",
         "Migrated the machine language platform to Azure (AKS, DevOps, Storage, Key Vault, Cosmos DB) to take advantage of cloud services.",
-        "Envisioned, evangelized, architected, developed, and productized an internal web application for REST API design that reduced costs and sped up delivery by at least 50%. Consists of multiple microservices deployed to a Kubernetes environment.",
+        "Envisioned, evangelized, architected, developed, and productized an internal web application for REST API design that reduced costs and sped up delivery by at least 50%. Consists of multiple microservices with REST APIs deployed to a Kubernetes environment.",
         "Maintained responsibilities held under the Principal Technical Architect title."
       ]
     },
