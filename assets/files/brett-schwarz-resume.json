@@ -23,16 +23,11 @@
   },
   "work": [
     {
-      "company": "AT&T",
+      "company": "Amazon Web Services",
       "summary": "",
-      "position": "Principal System Engineer",
-      "startDate": "2018-01-01",
-      "highlights": [
-        "Assisted in the development and the architecture of the machine language platform, consisting of multiple microservices with REST APIs, datastores, and a web application.",
-        "Migrated the machine language platform to Azure (AKS, DevOps, Storage, Key Vault, Cosmos DB) to take advantage of cloud services.",
-        "Envisioned, evangelized, architected, developed, and productized an internal web application for REST API design that reduced costs and sped up delivery by at least 50%. Consists of multiple microservices with REST APIs deployed to a Kubernetes environment.",
-        "Maintained responsibilities held under the Principal Technical Architect title."
-      ]
+      "position": "Senior Cloud Application Architect",
+      "startDate": "2021-02-22",
+      "highlights": []
     },
     {
       "company": "AT&T",
@@ -211,7 +206,10 @@
     {
       "name": "Certifications",
       "level": "5",
-      "keywords": ["AWS Certified Solutions Architect - Associate", "Microsoft Certified: Azure Fundamentals"]
+      "keywords": [
+        "AWS Certified Solutions Architect - Associate",
+        "Microsoft Certified: Azure Fundamentals"
+      ]
     },
     {
       "name": "Integration",
