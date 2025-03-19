@@ -19,7 +19,7 @@ author: Brett Schwarz
 
 
 <i class="fas fa-map-marker-alt igreen" aria-hidden="true"></i>
-[Bellevue, WA 98006, US](https://www.google.com/maps/place/Bellevue,+WA/@47.5977341,-122.2213428,12z/data=!3m1!4b1!4m5!3m4!1s0x54906bcfa3a66041:0xbacf5482ead00765!8m2!3d47.6101497!4d-122.2015159)
+[Seattle, WA 98006, US](https://www.google.com/maps/@47.5948856,-122.2882991,14z?entry=ttu&g_ep=EgoyMDI1MDMxNi4wIKXMDSoASAFQAw%3D%3D)
 
 <i class="fas fa-envelope igreen" aria-hidden="true"></i>
 [brett.schwarz@gmail.com](mailto:brett.schwarz@gmail.com)
