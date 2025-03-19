@@ -16,6 +16,7 @@ I like solving problems, big and small. More importantly, I like finding the mos
 * taught myself tcl/tk for writing scripting tools with a gui
 * taught myself about rdbms (postgresql)
 * taught myself html/css/javascript(basic) in order to write a web based reporting tool
+* taught python and TypeScript
 * interested in fitness and nutrition
 * finished nanodegree through udacity for frontend web developer
 * I have held various roles as system/network engineer, sales engineer, technical pm, architect, programmer

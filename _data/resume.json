@@ -2,7 +2,7 @@
   "basics": {
     "name": "Brett Schwarz",
     "label": "Principal Engineer",
-    "summary": "Principal engineer and software developer with in-depth experience and understanding of IT and mobile network architectures. Possess significant experience with product, service, and software life cycles, and customer engagement. Effective at adapting to different environments, concepts and technologies.",
+    "summary": "Senior Cloud Application Architect with 15+ years of experience in cloud services, software architecture, and engineering leadership. Proven track record of designing and implementing large-scale cloud-based systems, leading multi-functional teams, and driving complex projects from conception to delivery using AWS and Azure.",
     "email": "brett.schwarz@gmail.com",
     "phone": "+1-425-466-1731",
     "website": "bschwarz.github.io",
@@ -28,8 +28,13 @@
       "position": "Senior Cloud Application Architect",
       "startDate": "2021-02-22",
       "highlights": [
-        "Work with customers to design, build and test custom applications that work together with existing AWS services.",
-        "Consult with customers on how to best leverage AWS services."
+        "Led application development team for a custom Smart-Home platform to manage millions of devices, and improve device management by developing microservices and custom APIs.",
+        "Spearheaded authentication and authorization design for a telecom project entirely within a private network, reducing security exposure by 50%.",
+        "Led a small team to design and build a web portal for large mobile operator customer, which increased usability for managing a ORAN network.",
+        "Led a large mult-tenant Smart-Home project with 10 direct reports and 20+ dotted line engineers, delivering 120+ API operations using AWS microservices and a blue/green deployment model — delivering solution ahead of schedule.",
+        "Developed automation for a mobile operator's testing platform using AWS and machine learning, reducing defect resolution time by an estimated 50%.",
+        "Designed and built a cloud architecture workflow system using AWS services, as well as custom applications with RESTful APIs.",
+        "Designed and developed an internal web-based API management tool (full stack) that integrates into existing systems. Developed a custom application with an event-driven architecture using AWS services."
       ]
     },
     {
@@ -39,11 +44,11 @@
       "startDate": "2015-06-01",
       "endDate": "2018-01-01",
       "highlights": [
+        "Developed and architected a machine learning platform consisting of multiple microservices and datastores.",
+        "Migrated the platform to Azure (AKS, DevOps, Storage, Key Vault, Cosmos DB), improving performance and scalability.",
+        "Created an internal REST API design tool, reducing delivery time by 50% with Kubernetes deployment.",
         "Established best practices for REST web services across all of AT&T as a member of the internal standards team.",
-        "Oversaw and improved API design, security, and privacy for externally exposed APIs (over a hundred unique APIs) as a member of the API governance.",
-        "Advanced the adoption of OpenAPI (Swagger) across the company by developing tools and educating internal teams on the benefits of using OpenAPI.",
-        "Consulted and mentored internal teams weekly on API design to optimize the solution based on project goals and existing network architecture.",
-        "Accelerated REST adoption by authoring internal best practice articles on REST concepts/design and leading a company-wide REST training program."
+        "Oversaw and improved API design, security, and privacy for externally exposed APIs (over a hundred unique APIs) as a member of the API governance."
       ]
     },
     {
@@ -66,9 +71,9 @@
       "startDate": "2010-10-01",
       "endDate": "2011-06-01",
       "highlights": [
-        "Headed the performance testing efforts for the messaging platform, including authoring test cases, test case execution, and managing defects.",
-        "Mentored team members on mobile and IT networks, by holding periodic workshops and consulting on various projects.",
-        "Developed software tools for automation, testing, and troubleshooting of APIs."
+        "Ensured optimal API solutions through collaboration with customers and architecture teams.",
+        "Led and mentored a team of 8–10 engineers.",
+        "Developed a new API documentation system, reducing delivery time by 30%."
       ]
     },
     {
@@ -210,44 +215,33 @@
       "name": "Certifications",
       "level": "5",
       "keywords": [
+        "AWS Certified Solutions Architect - Professional",
         "AWS Certified Solutions Architect - Associate",
+        "AWS Certified Developer Associate",
+        "AWS Certified AI Practitioner",
+        "AWS Certified Cloud Practitioner",
         "Microsoft Certified: Azure Fundamentals"
       ]
     },
     {
+      "name": "AWS Services",
+      "level": "5",
+      "keywords": ["AWS Lambda", "Amazon DynamoDB", "Amazon API Gateway", "Amazon SQS", "Amazon SNS", "Amazon EventBridge", "AWS SES", "Amazon S3", "AWS Stepfunctions", "AWS WAF", "AWS CloudFront", "Amazon Cognito", "AWS Systems Manager", "AWS Secrets Manager"]
+    },
+    {
       "name": "Integration",
       "level": "5",
-      "keywords": ["Mobile Networks", "IT Networks"]
-    },
-    {
-      "name": "Wireless",
-      "level": "5",
-      "keywords": [
-        "2G",
-        "3G",
-        "4G",
-        "LTE",
-        "GSM",
-        "CDMA",
-        "UMTS",
-        "SMSC",
-        "HLR",
-        "HSS"
-      ]
-    },
-    {
-      "name": "Testing",
-      "level": "3",
-      "keywords": ["performance", "functional", "unit", "UAT"]
+      "keywords": ["Mobile Networks", "Smart-Homes", "IT Networks"]
     },
     {
       "name": "Software Languages",
       "level": "4",
       "keywords": [
-        "Tcl/Tk",
-        "JavaScript",
-        "Node.js",
         "Python",
+        "JavaScript",
+        "TypeScript",
+        "Node.js",
+        "Tcl/Tk",
         "C",
         "Java",
         "shell"
@@ -259,10 +253,9 @@
       "keywords": [
         "Kubernetes",
         "Docker",
-        "Terraform",
         "Packer",
         "Agile",
-        "Alexa SDK"
+        "Terraform"
       ]
     },
     {
@@ -271,9 +264,10 @@
       "keywords": [
         "Git",
         "GitHub",
+        "CodeBuild",
+        "CodeCommit",
+        "CodePipeline",
         "Bitbucket",
-        "CVS",
-        "SVN",
         "Jenkins",
         "Travis CI",
         "SonarQube"
@@ -298,33 +292,17 @@
       ]
     },
     {
-      "name": "Network Architecture",
-      "level": "5",
-      "keywords": [
-        "Azure",
-        "AWS",
-        "Mobile Networks",
-        "IT Networks",
-        "TCP/IP",
-        "OSI"
-      ]
-    },
-    {
-      "name": "Computers",
-      "level": "4",
-      "keywords": ["Linux/Unix", "Windows", "Mac", "MS Office"]
-    },
-    {
       "name": "Web Development",
       "level": "4",
       "keywords": [
         "HTML5",
         "CSS3",
+        "Svelte",
         "JavaScript",
         "jQuery",
         "Knockout.js",
+        "React",
         "Angular",
-        "Svelte",
         "Gulp",
         "Grunt",
         "Bootstrap",
@@ -340,12 +318,12 @@
       "name": "Datastores",
       "level": "4",
       "keywords": [
+        "DynamoDB",
         "PostgreSQL",
         "SQLite",
         "MySQL",
         "Oracle",
         "MongoDB",
-        "DynamoDB",
         "Redis",
         "Memcached",
         "Cosmos DB"
@@ -359,7 +337,7 @@
     },
     {
       "language": "Spanish",
-      "fluency": "Professional"
+      "fluency": "Limited working"
     },
     {
       "language": "German",

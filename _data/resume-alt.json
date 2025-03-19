@@ -1,0 +1,369 @@
+{
+  "selectedTemplate": 2,
+  "basics": {
+    "name": "Brett Schwarz",
+    "label": "Principal Engineer",
+    "summary": "Senior Cloud Application Architect with 15+ years of experience in cloud services, software architecture, and engineering leadership. Proven track record of designing and implementing large-scale cloud-based systems, leading multi-functional teams, and driving complex projects from conception to delivery using AWS and Azure.",
+    "email": "brett.schwarz@gmail.com",
+    "phone": "+1-425-466-1731",
+    "website": "bschwarz.github.io",
+    "location": {
+      "city": "Bellevue",
+      "region": "Washington",
+      "postalCode": "98006",
+      "countryCode": "US",
+      "address": "Seattle WA USA"
+    },
+    "profiles": [
+      {
+        "network": "linkedin",
+        "username": "brettschwarz",
+        "url": "https://www.linkedin.com/in/brettschwarz"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "University of Toledo",
+      "area": "Electrical Engineering",
+      "studyType": "Bachelor of Science",
+      "startDate": "1988-09-01",
+      "endDate": "1991-12-01"
+    },
+    {
+      "institution": "University of Toledo",
+      "area": "Mathematics",
+      "studyType": "Bachelor of Science",
+      "startDate": "1988-09-01",
+      "endDate": "1991-12-01"
+    },
+    {
+      "institution": "Udacity",
+      "area": "Frontend Web Developer",
+      "studyType": "Nanodegree",
+      "startDate": "2017-01-01",
+      "endDate": "2018-01-01"
+    },
+    {
+      "institution": "Udacity",
+      "area": "Machine Learning Engineer",
+      "studyType": "Nanodegree",
+      "startDate": "2020-08-15",
+      "endDate": "2020-12-15"
+    }
+  ],
+  "work": [
+    {
+      "company": "Amazon Web Services",
+      "summary": "",
+      "position": "Senior Cloud Application Architect",
+      "startDate": "2021-02-22",
+      "highlights": [
+        "Led application development team for a custom Smart-Home platform to manage millions of devices, and improve device management by developing microservices and custom APIs.",
+        "Spearheaded authentication and authorization design for a telecom project entirely within a private network, reducing security exposure by 50%.",
+        "Led a small team to design and build a web portal for large mobile operator customer, which increased usability for managing a ORAN network.",
+        "Led a large mult-tenant Smart-Home project with 10 direct reports and 20+ dotted line engineers, delivering 120+ API operations using AWS microservices and a blue/green deployment model — delivering solution ahead of schedule.",
+        "Developed automation for a mobile operator's testing platform using AWS and machine learning, reducing defect resolution time by an estimated 50%.",
+        "Designed and built a cloud architecture workflow system using AWS services, as well as custom applications with RESTful APIs.",
+        "Designed and developed an internal web-based API management tool (full stack) that integrates into existing systems. Developed a custom application with an event-driven architecture using AWS services."
+      ],
+      "location": "Seattle WA"
+    },
+    {
+      "company": "AT&T",
+      "summary": "",
+      "position": "Principal Technical Architect",
+      "startDate": "2015-06-01",
+      "endDate": "2018-01-01",
+      "highlights": [
+        "Developed and architected a machine learning platform consisting of multiple microservices and datastores.",
+        "Migrated the platform to Azure (AKS, DevOps, Storage, Key Vault, Cosmos DB), improving performance and scalability.",
+        "Created an internal REST API design tool, reducing delivery time by 50% with Kubernetes deployment.",
+        "Established best practices for REST web services across all of AT&T as a member of the internal standards team.",
+        "Oversaw and improved API design, security, and privacy for externally exposed APIs (over a hundred unique APIs) as a member of the API governance."
+      ],
+      "location": "Redmond WA"
+    },
+    {
+      "company": "Sentaca",
+      "summary": "",
+      "position": "Solutions Architect",
+      "startDate": "2011-06-01",
+      "endDate": "2015-05-01",
+      "highlights": [
+        "Achieved high customer satisfaction by ensuring optimal API solutions by collaborating with customers and internal architecture teams.",
+        "Lead and mentored a team of 8-10 engineers for the developer program.",
+        "Promoted API solutions at conferences and hack-a-thons by educating and demonstrating to customers the solution’s capabilities.",
+        "Implemented a new API documentation system which reduced delivery time by 30%."
+      ],
+      "location": "Redmond WA"
+    },
+    {
+      "company": "AT&T",
+      "summary": "",
+      "position": "Senior Test Engineer",
+      "startDate": "2010-10-01",
+      "endDate": "2011-06-01",
+      "highlights": [
+        "Ensured optimal API solutions through collaboration with customers and architecture teams.",
+        "Led and mentored a team of 8–10 engineers.",
+        "Developed a new API documentation system, reducing delivery time by 30%."
+      ],
+      "location": "Redmond WA"
+    },
+    {
+      "company": "T-Mobile",
+      "summary": "",
+      "position": "Senior Engineer",
+      "startDate": "2010-05-01",
+      "endDate": "2010-10-01",
+      "highlights": [
+        "Designed, engineered, and supervised subscriber-based mobile network elements.",
+        "Successfully lead the engineering team on a complex (total replacement) subscriber migration across the entire network.",
+        "Developed tools to streamline the implementation and troubleshooting of services."
+      ],
+      "location": "Bellevue WA"
+    },
+    {
+      "company": "Alcatel-Lucent",
+      "summary": "",
+      "position": "Technical Sales Engineer",
+      "startDate": "2008-08-01",
+      "endDate": "2009-09-01",
+      "highlights": [
+        "Achieved highest-ranked sales engineer status by assisting the sales team to secure a major strategic win.",
+        "Supported the sales team with technical expertise for product presentations and consultations to the customer up to the VP level."
+      ],
+      "location": "Bellevue WA"
+    },
+    {
+      "company": "Alcatel-Lucent",
+      "summary": "",
+      "position": "Senior Network Systems Engineer",
+      "startDate": "2005-11-01",
+      "endDate": "2008-08-01",
+      "highlights": [
+        "Headed the performance optimization customer team from an engineering and project management role, and improved network performance by 10%.",
+        "Accelerated customer’s understanding of the products by providing presentations and weekly performance updates to the customer up to the VP level, on the core network (GSM, UMTS).",
+        "Reduced turnaround time and increased effectiveness of statistics reporting by developing an internal web-based reporting tool (ETL, server, and client-side).",
+        "Collaborated with development and system engineering on performance issues to improve the product’s performance."
+      ],
+      "location": "Bellevue WA"
+    },
+    {
+      "company": "HMS Software",
+      "summary": "",
+      "position": "Implementation Engineer",
+      "startDate": "2005-01-01",
+      "endDate": "2005-11-01",
+      "highlights": [
+        "Translated requirements from the customer into customized code that implemented new features into our standard software product (manufacturing ERP).",
+        "Performed testing, managed all bug fixes, and collaborated with the customer on the integration of the solution.",
+        "Increased productivity by mentoring other engineers in the Tcl programming language.",
+        "Optimized legacy code by conforming code to new features."
+      ],
+      "location": "Bellevue WA"
+    },
+    {
+      "company": "ATT Wireless",
+      "summary": "",
+      "position": "Senior Engineer",
+      "startDate": "2003-04-01",
+      "endDate": "2004-12-01",
+      "highlights": [
+        "Engineered messaging platforms (e.g. SMSCs) within the company's mobile network.",
+        "Worked with the vendor to find the optimal solution and verification of the solution.",
+        "Reduced response time and improved quality by developing several software tools."
+      ],
+      "location": "Redmond WA"
+    },
+    {
+      "company": "PacketVideo Corporation",
+      "summary": "",
+      "position": "Lead Network Engineer",
+      "startDate": "2000-06-01",
+      "endDate": "2002-04-01",
+      "highlights": [
+        "Designed, tested, and integrated the server (Linux) platform installation for both domestic and internal integrations.",
+        "Lead the first complete integration effort of the product line into the customer’s network (JSP and servlets on Apache/Tomcat).",
+        "Significantly reduced cycle time and improved quality by developing a customized RedHat Linux Kickstart installation for field installations and sales demos.",
+        "Improved internal communication by developing a web application for installation activities, knowledge base, and configuration generation.",
+        "Provided pre-sales and post-sales support, including presentations for the customers globally."
+      ],
+      "location": "Bellevue WA"
+    },
+    {
+      "company": "Motorola",
+      "summary": "",
+      "position": "Lead Systems Engineer",
+      "startDate": "1996-10-01",
+      "endDate": "2000-06-01",
+      "highlights": [
+        "Designed, tested and integrated products into the customer’s mobile network, for both domestic and international customers.",
+        "Lead several major network changeouts for the engineering team.",
+        "Enhanced subscriber accessibility by developing procedures and software tools to migrate/modify subscribers efficiently and in a significantly reduced time frame."
+      ],
+      "location": "Bellevue WA"
+    }
+  ],
+  "skills": [
+    {
+      "name": "AWS Services",
+      "level": "5",
+      "keywords": [
+        "AWS Lambda",
+        "Amazon DynamoDB",
+        "Amazon API Gateway",
+        "Amazon SQS",
+        "Amazon SNS",
+        "Amazon EventBridge",
+        "AWS SES",
+        "Amazon S3",
+        "AWS Stepfunctions",
+        "AWS WAF",
+        "AWS CloudFront",
+        "Amazon Cognito",
+        "AWS Systems Manager",
+        "AWS Secrets Manager"
+      ]
+    },
+    {
+      "name": "Software Languages",
+      "level": "4",
+      "keywords": [
+        "Python",
+        "JavaScript",
+        "TypeScript",
+        "Node.js",
+        "Tcl/Tk",
+        "C",
+        "Java",
+        "shell"
+      ]
+    },
+    {
+      "name": "Software Technologies",
+      "level": "4",
+      "keywords": [
+        "Kubernetes",
+        "Docker",
+        "Packer",
+        "Agile",
+        "Terraform"
+      ]
+    },
+    {
+      "name": "Web Services",
+      "level": "5",
+      "keywords": [
+        "REST",
+        "OpenAPI (Swagger)",
+        "OAuth 2.0",
+        "JSON Schema",
+        "HTTP/1.1",
+        "HTTP/2",
+        "WebSockets",
+        "SOAP",
+        "WSDL",
+        "XML",
+        "GraphQL",
+        "RAML"
+      ]
+    },
+    {
+      "name": "DevSecOps",
+      "level": "4",
+      "keywords": [
+        "Git",
+        "GitHub",
+        "CodeBuild",
+        "CodeCommit",
+        "CodePipeline",
+        "Bitbucket",
+        "Jenkins",
+        "Travis CI",
+        "SonarQube"
+      ]
+    },
+    {
+      "name": "Integration",
+      "level": "5",
+      "keywords": [
+        "Mobile Networks",
+        "Smart-Homes",
+        "IT Networks"
+      ]
+    },
+    {
+      "name": "Web Development",
+      "level": "4",
+      "keywords": [
+        "HTML5",
+        "CSS3",
+        "Svelte",
+        "JavaScript",
+        "jQuery",
+        "Knockout.js",
+        "React",
+        "Angular",
+        "Gulp",
+        "Grunt",
+        "Bootstrap",
+        "Foundation",
+        "Express",
+        "Flask",
+        "Apache",
+        "Naviserver",
+        "Tomcat"
+      ]
+    },
+    {
+      "name": "Datastores",
+      "level": "4",
+      "keywords": [
+        "DynamoDB",
+        "PostgreSQL",
+        "SQLite",
+        "MySQL",
+        "Oracle",
+        "MongoDB",
+        "Redis",
+        "Memcached",
+        "Cosmos DB"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "AWS Certified Solutions Architect - Professional"
+    },
+    {
+      "name": "AWS Certified Solutions Architect - Associate"
+    },
+    {
+      "name": "AWS Certified Developer Associate"
+    },
+    {
+      "name": "AWS Certified AI Practitioner"
+    },
+    {
+      "name": "AWS Certified Cloud Practitioner"
+    },
+    {
+      "name": "Microsoft Certified: Azure Fundamentals"
+    }
+  ],
+  "awards": [],
+  "headings": {
+    "projects": "Certifications"
+  },
+  "sections": [
+    "templates",
+    "profile",
+    "work",
+    "projects",
+    "skills",
+    "awards",
+    "education"
+  ]
+}
