@@ -2,7 +2,7 @@
   "basics": {
     "name": "Brett Schwarz",
     "label": "Principal Engineer",
-    "summary": "Senior Cloud Application Architect with 15+ years of experience in cloud services, software architecture, and engineering leadership. Proven track record of designing and implementing large-scale cloud-based systems, leading multi-functional teams, and driving complex projects from conception to delivery using AWS and Azure.",
+    "summary": "Senior Software Engineer & Cloud Architect with experience leading cross-functional teams, architecting large-scale cloud applications, and delivering end-to-end solutions. Proven record of architecture leadership, global team collaboration, and delivering cost-efficient cloud architectures.",
     "email": "brett.schwarz@gmail.com",
     "phone": "+1-425-466-1731",
     "website": "bschwarz.github.io",
@@ -47,7 +47,7 @@
         "Managed stakeholder alignment across product, design, and engineering to successfully deliver a distributed ML platform with containerized microservices, REST APIs, cloud-native data stores, and a web application.",
         "Migrated the entire ML platform to Microsoft Azure, improving system scalability and reducing infrastructure spend.",
         "Created an internal REST API design tool, reducing delivery time by 50% with Kubernetes deployment.",
-        "Established best practices for REST web services across all of AT&T as a member of the internal standards team.",
+        "Established best practices for REST web services across all of AT&T as a member of the internal standards team."
       ]
     },
     {
