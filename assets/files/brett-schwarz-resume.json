@@ -24,31 +24,30 @@
   "work": [
     {
       "company": "Amazon Web Services",
-      "summary": "",
+      "summary": "AWS Professional Services - assisting customers with planning and executing solution build-outs on AWS, balancing technical design with business needs",
       "position": "Senior Cloud Application Architect",
       "startDate": "2021-02-22",
       "highlights": [
-        "Led application development team for a custom Smart-Home platform to manage millions of devices, and improve device management by developing microservices and custom APIs.",
-        "Spearheaded authentication and authorization design for a telecom project entirely within a private network, reducing security exposure by 50%.",
-        "Led a small team to design and build a web portal for large mobile operator customer, which increased usability for managing a ORAN network.",
-        "Led a large mult-tenant Smart-Home project with 10 direct reports and 20+ dotted line engineers, delivering 120+ API operations using AWS microservices and a blue/green deployment model — delivering solution ahead of schedule.",
-        "Developed automation for a mobile operator's testing platform using AWS and machine learning, reducing defect resolution time by an estimated 50%.",
-        "Designed and built a cloud architecture workflow system using AWS services, as well as custom applications with RESTful APIs.",
+        "Directed a 10-person core engineering team, plus 15+ cross-functional contributors, to build a multi-tenant Smart Home platform using microservices architecture (over 120 scalable RESTful API operations) and blue/green deployments, supporting millions of devices.",
+        "Led end-to-end application development for a Smart Devices platform, overseeing API design, secure authentication/authorization flows, mobile push notifications, and real-time communication via WebSockets.",
+        "Architected and led a telecom-scale frontend and identity solution, delivering a secure authentication/authorization system in compliance with strict enterprise security requirements, while facilitating collaboration between US and APAC engineers.",
+        "Implemented a cloud-native workflow engine using AWS services, enabling orchestration and automation of critical business processes.",
+        "Automated testing and defect tracking for a major mobile operator by building a cloud-based data ingestion system with RESTful APIs and AWS services, supporting future ML initiatives.",
+        "Created a full-stack, web-based internal API management tool using AWS services, improving API lifecycle control and developer efficiency.",
         "Designed and developed an internal web-based API management tool (full stack) that integrates into existing systems. Developed a custom application with an event-driven architecture using AWS services."
       ]
     },
     {
       "company": "AT&T",
-      "summary": "",
+      "summary": "Company wide API standards, governance, and best practices. API design, architecture, and development. Machine Learning platform architecture and development.",
       "position": "Principal Technical Architect",
       "startDate": "2015-06-01",
       "endDate": "2018-01-01",
       "highlights": [
-        "Developed and architected a machine learning platform consisting of multiple microservices and datastores.",
-        "Migrated the platform to Azure (AKS, DevOps, Storage, Key Vault, Cosmos DB), improving performance and scalability.",
+        "Managed stakeholder alignment across product, design, and engineering to successfully deliver a distributed ML platform with containerized microservices, REST APIs, cloud-native data stores, and a web application.",
+        "Migrated the entire ML platform to Microsoft Azure, improving system scalability and reducing infrastructure spend.",
         "Created an internal REST API design tool, reducing delivery time by 50% with Kubernetes deployment.",
         "Established best practices for REST web services across all of AT&T as a member of the internal standards team.",
-        "Oversaw and improved API design, security, and privacy for externally exposed APIs (over a hundred unique APIs) as a member of the API governance."
       ]
     },
     {
@@ -217,6 +216,7 @@
       "keywords": [
         "AWS Certified Solutions Architect - Professional",
         "AWS Certified Solutions Architect - Associate",
+        "AWS Certified Machine Learning - Associate",
         "AWS Certified Developer Associate",
         "AWS Certified AI Practitioner",
         "AWS Certified Cloud Practitioner",
