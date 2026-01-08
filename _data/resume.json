@@ -2,7 +2,7 @@
   "basics": {
     "name": "Brett Schwarz",
     "label": "Principal Engineer",
-    "summary": "Certified Senior Cloud Architect & Software Engineer with experience leading cross-functional teams, architecting large-scale cloud applications, and delivering end-to-end solutions. Proven record of architecture leadership, global team collaboration, and delivering cost-efficient cloud architectures.",
+    "summary": "Certified Senior Cloud Architect & Software Engineer with experience leading cross-functional teams, architecting large-scale cloud applications, and collaborating with product owners and stakeholders to deliver end-to-end solutions. Proven record of architecture leadership, global team collaboration, and delivering cost-efficient cloud architectures.",
     "email": "brett.schwarz@gmail.com",
     "phone": "+1-425-466-1731",
     "website": "bschwarz.github.io",
@@ -226,7 +226,22 @@
     {
       "name": "AWS Services",
       "level": "5",
-      "keywords": ["AWS Lambda", "Amazon DynamoDB", "Amazon API Gateway", "Amazon SQS", "Amazon SNS", "Amazon EventBridge", "AWS SES", "Amazon S3", "AWS Stepfunctions", "AWS WAF", "AWS CloudFront", "Amazon Cognito", "AWS Systems Manager", "AWS Secrets Manager"]
+      "keywords": [
+        "AWS Lambda",
+        "Amazon DynamoDB",
+        "Amazon API Gateway",
+        "Amazon SQS",
+        "Amazon SNS",
+        "Amazon EventBridge",
+        "AWS SES",
+        "Amazon S3",
+        "AWS Stepfunctions",
+        "AWS WAF",
+        "AWS CloudFront",
+        "Amazon Cognito",
+        "AWS Systems Manager",
+        "AWS Secrets Manager"
+      ]
     },
     {
       "name": "Integration",
@@ -250,13 +265,7 @@
     {
       "name": "Software Technologies",
       "level": "4",
-      "keywords": [
-        "Kubernetes",
-        "Docker",
-        "Packer",
-        "Agile",
-        "Terraform"
-      ]
+      "keywords": ["Kubernetes", "Docker", "Packer", "Agile", "Terraform"]
     },
     {
       "name": "DevSecOps",
