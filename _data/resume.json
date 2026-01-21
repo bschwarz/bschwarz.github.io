@@ -1,16 +1,16 @@
 {
   "basics": {
     "name": "Brett Schwarz",
-    "label": "Principal Engineer",
-    "summary": "Certified Senior Cloud Architect & Software Engineer with experience leading cross-functional teams, architecting large-scale cloud applications, and collaborating with product owners and stakeholders to deliver end-to-end solutions. Proven record of architecture leadership, global team collaboration, and delivering cost-efficient cloud architectures.",
+    "label": "Cloud Architect & Software Engineer",
+    "summary": "Certified Senior Cloud Architect & Software Engineer with experience leading cross-functional teams, architecting large-scale cloud applications, and collaborating with product owners and stakeholders to deliver end-to-end solutions. Deep expertise in API design, system architecture, and agile development.",
     "email": "brett.schwarz@gmail.com",
     "phone": "+1-425-466-1731",
     "website": "bschwarz.github.io",
     "location": {
       "address": "",
-      "city": "Bellevue",
+      "city": "Seattle",
       "region": "Washington",
-      "postalCode": "98006",
+      "postalCode": "98141",
       "countryCode": "US"
     },
     "profiles": [
@@ -240,8 +240,16 @@
         "AWS CloudFront",
         "Amazon Cognito",
         "AWS Systems Manager",
-        "AWS Secrets Manager"
+        "AWS Secrets Manager",
+        "AVP",
+        "AgentCore",
+        "Bedrock"
       ]
+    },
+    {
+      "name": "Architecture and Design",
+      "level": "5",
+      "keywords": ["Microservices", "Domain-Driven Design", "Event Driven Architecture", "API Lifecycle Management"]
     },
     {
       "name": "Integration",
@@ -265,40 +273,7 @@
     {
       "name": "Software Technologies",
       "level": "4",
-      "keywords": ["Kubernetes", "Docker", "Packer", "Agile", "Terraform"]
-    },
-    {
-      "name": "DevSecOps",
-      "level": "4",
-      "keywords": [
-        "Git",
-        "GitHub",
-        "CodeBuild",
-        "CodeCommit",
-        "CodePipeline",
-        "Bitbucket",
-        "Jenkins",
-        "Travis CI",
-        "SonarQube"
-      ]
-    },
-    {
-      "name": "Web Services",
-      "level": "5",
-      "keywords": [
-        "REST",
-        "OpenAPI (Swagger)",
-        "OAuth 2.0",
-        "JSON Schema",
-        "HTTP/1.1",
-        "HTTP/2",
-        "WebSockets",
-        "SOAP",
-        "WSDL",
-        "XML",
-        "GraphQL",
-        "RAML"
-      ]
+      "keywords": ["CDK", "SAM", "CloudFormation", "Git", "GitHub", "CodeBuild", "Kubernetes", "Docker", "Packer", "Agile", "Terraform", "JIRA", "Confluence", "Asana"],
     },
     {
       "name": "Web Development",
@@ -318,9 +293,7 @@
         "Foundation",
         "Express",
         "Flask",
-        "Apache",
-        "Naviserver",
-        "Tomcat"
+        "FastAPI"
       ]
     },
     {
