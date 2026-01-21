@@ -28,8 +28,8 @@
       "position": "Senior Cloud Application Architect",
       "startDate": "2021-02-22",
       "highlights": [
-        "Directed a 10-person core engineering team, plus 15+ cross-functional contributors, to build a multi-tenant Smart Home platform using microservices architecture (over 120 scalable RESTful API operations) and blue/green deployments, supporting millions of devices.",
-        "Led end-to-end application development for a Smart Devices platform, overseeing API design, secure authentication/authorization flows, mobile push notifications, and real-time communication via WebSockets.",
+        "Directed a 10-person core engineering team, plus 15+ cross-functional contributors, to build a multi-tenant Smart Home (IoT) platform using microservices architecture (over 120 scalable RESTful API operations) and blue/green deployments, supporting millions of devices.",
+        "Led application development for a Smart Devices (IoT) platform, overseeing API design, secure authentication/authorization flows, mobile push notifications, and real-time communication via WebSockets.",
         "Architected and led a telecom-scale frontend and identity solution, delivering a secure authentication/authorization system in compliance with strict enterprise security requirements, while facilitating collaboration between US and APAC engineers.",
         "Implemented a cloud-native workflow engine using AWS services, enabling orchestration and automation of critical business processes.",
         "Automated testing and defect tracking for a major mobile operator by building a cloud-based data ingestion system with RESTful APIs and AWS services, supporting future ML initiatives.",
